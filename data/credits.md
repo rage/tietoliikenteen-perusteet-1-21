@@ -19,8 +19,7 @@ Kurssin materiaalin tekijänoikeudet ovat Tiina Niklanderilla ja muilla materiaa
 Kurssin materiaalin käyttöoikeus on lisensoitu
 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fi" target="_blank" rel="noopener noreferrer" >
     Creative Commons BY-NC-SA 4.0
-</a>
- - lisenssillä, joten voit käyttää ja levittää sitä vapaasti, kunhan
+</a> - lisenssillä, joten voit käyttää ja levittää sitä vapaasti, kunhan
 alkuperäisten tekijöiden nimiä ei poisteta. Jos teet muutoksia
 materiaaliin ja haluat levittää muunneltua versiota, se täytyy
 lisensoida samalla lisenssillä. Materiaalien käyttö kaupalliseen
