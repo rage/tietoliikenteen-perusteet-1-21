@@ -6,7 +6,7 @@ hidden: false
 
 ## Muita esimerkkejä sovelluskerroksen protokollista
 
-WWW-palvelun, tiedostopalvelujen ja virtuaalisen yksityisverkon lisäksi sovelluskerroksella on satoja muitakin palveluja ja niiden omia protokollia.  Yksi yleisimmistä on sähköpostin lähettämisessä käytetty SMTP.
+WWW-palvelun ja tiedostopalvelujen lisäksi sovelluskerroksella on satoja muitakin palveluja ja niiden omia protokollia.  Yksi yleisimmistä on sähköpostin lähettämisessä käytetty SMTP. Tutustutaan tässä lyhyestä myös pikaviestintäpalveluun ja virtuaaliseen yksityisverkkoon.
 
 ## Sähköposti
 
