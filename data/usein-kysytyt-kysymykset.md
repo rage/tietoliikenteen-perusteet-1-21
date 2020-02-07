@@ -11,7 +11,7 @@ Tässä usein kysyttyjä kysymyksiä ja ongelmia. Jos et löydä kysymykseesi va
 
 ### Löysin materiaalista virheen
 
-Avaa joko issue tai muutosehdotus kurssin Github-repossa: https://github.com/rage/johdatus-tietoliikenteeseen-19.
+Avaa joko issue tai muutosehdotus kurssin Github-repossa: https://github.com/rage/tietoliikenteen-perusteet-1-20.
 
 
 ### Työ- ja elinkeinotoimisto haluaa minulta selvityksen kurssista
@@ -28,6 +28,6 @@ Sovi asiasta etukäteen TE-toimistosi kanssa. TE-toimistot eivät valitettavasti
 
 ### Saako kursseista jonkinlaisen virallisen opintosuoritusotteen? Ja miten hyväksiluen sen oppilaitoksessani?
 
-Helsingin yliopiston avoimen yliopiston ohjeiden mukaan toimivat opiskelijat voivat saada opintopisteitä pelkästään tästä verkkokurssista, mutta silloin pitää tehdä kaikki vaaditut osiot. Virallisen suoritusotteen voisi siis saada vain, jos on ilmoittautunut kurssille HYn avoimen ohjeiden mukaan. Muiden oppilaitosten osalta emme voi luvata mitään, vaan kannattaa varmistaa asia oman oppilaitoksen opintovastaavalta.
+Helsingin yliopiston avoimen yliopiston ohjeiden mukaan toimivat opiskelijat voivat saada opintopisteitä pelkästään tästä verkkokurssista, mutta silloin pitää tehdä kaikki vaaditut osiot. Virallisen suoritusotteen voisi siis saada vain, jos on ilmoittautunut kurssille HYn avoimen ohjeiden mukaan ja tehnyt myös tentin moodlessa. Muiden oppilaitosten osalta emme voi luvata mitään, vaan kannattaa varmistaa asia oman oppilaitoksen opintovastaavalta.
 
 Tutkinto-opiskelijoille tämä on osa laajempaa kurssia Tietoliikenteen perusteet, eikä heille anneta merkintää erikseen tästä osasuorituksesta, koska kurssia ei voi suorittaa paloissa.
