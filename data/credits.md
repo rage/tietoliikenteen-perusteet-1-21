@@ -9,7 +9,7 @@ information_page: true
 
 Kurssin ensimmäisen version tekoon keväällä 2019 ovat osallistuneet vastuuhenkilön Tiina Niklander lisäksi kurssin muut opettajat Terho Uotila ja Mikko Rinta-Homi. Erityisesti heille kuuluu kiitos siitä, että tässä versiossa on tekstin lisäksi myös kuvia.
 
-Kevään 2019 kurssin opiskelijoita tuli palautetta ja parannusehdotuksia. Niiden avulla kurssia on muokattu. Kiitos näistä kaikista kommnteista ja ehdotuksista.
+Kevään 2019 kurssin opiskelijoita tuli palautetta ja parannusehdotuksia. Niiden avulla kurssia on muokattu. Kiitos kaikille näistä kommenteista ja ehdotuksista.
 
 ## Materiaalin lisenssi
 
