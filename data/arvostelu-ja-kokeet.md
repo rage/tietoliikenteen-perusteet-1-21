@@ -7,24 +7,20 @@ information_page: true
 
 ## Arvostelusta
 
-Kurssin kaksi erillistä opiskelijaryhmää käsitellään arvostelussa täysin erillisinä.
+Kurssista voi saada suoritusmerkinnän vain osallistumalla keväällä 2020 joko kurssille [TKT20004 Tietoliikenteen perusteet](https://courses.helsinki.fi/fi/tkt20004/131058728) tai kurssille [AYTKT200041 Tietoliikenteen perusteet 1](https://courses.helsinki.fi/fi/aytkt200041/130350119).  
+
+Muita todistuksia kurssin suorittamiseste ei anneta. 
+
+Nämä kaksi kurssia arvostellaan täysin toisistaan riippumatta ja niillä erilaiset suoritustavat. Katso tarkemmin kurssin omalta sivulta tietoa näistä suoritustavoista.
 
 
 ### Avoimen yliopiston opiskelijat, DEFA
 
-Teidän suorituksenne arvioidaan Johdatus Tietojenkäsittelytieteeseen 2 op mukaisena. Arvostelu tapahtuu puhtaasti moodlen kokeen perusteella.  Tämän kurssin tehtävistä voi saada muutaman lisäpisteen arvostelun osaksi. Katso tarkempi tieto kurssin moodlesta.
+Kurssin voi tenttiä moodlessa joko maalis-huhtikuun vaihteessa, pääsiäisen jälkeisellä viikolla tai helatorstaiviikolla. Muita tenttivaihtoehtoja ei ole. Suosittelen tenttimään jo heti maalis-huhtikuun vaihteessa, jolloin voit jatkaa huhtikuun alusta seuraavalle Tietoliikenteen perusteet 2 -kurssille.
 
-Kurssin verkkotenttien ajankohdat on nyt päätetty. Voit tenttiä kurssin Moodlessa valitsemanasi tenttipäivänä. Tenttimahdollisuuksia järjestetään kolme. Tentin voit avata ensimmäisenä päivänä klo 10 ja tentti sulkeutuu viimeisenä tenttipäivänä 23.59. Voit siis suorittaa tentin itsellesi sopivana ajankohtana. Kun avaat tentin, sinulla on kolme tuntia aikaa suorittaa se loppuun.
-
-Verkkotenttien päivämäärät ovat seuraavat:
-
-    Pe 26.4. - Ma 29.4.
-    Ti 14.5. - To 16.5.
-    Ti 28.5. - Pe 31.5. 
-
-Valitsemaasi verkkotenttiin ei tarvitse erikseen ilmoittautua.
+Pidä huoli, että ilmoittaudut avoimeen yliopistoon tenttiä edeltävällä viikolla, jotta käyttöoikeutesi tulee voimaan ajoissa. Et siis tarvitse erillistä tentti-ilmoittautumista, vaan normaali kurssi-ilmoittautuminen riittää.
 
 
 ### Helsingin yliopiston tutkinto-opiskelijat
 
-Teillä ei ole mahdollisuutta saada merkintää vain tästä verkkokurssista, vaan tämä osa isompaa Tietoliikenteen perusteet -kurssia ja osion arvostelu tapahtuu isomman kurssin osana. Tämä osio katetaan yhdessä minikokeessa. Minikokeen ajankohta on kerrottu isomman kurssin aikataulussa.
+Teillä ei ole mahdollisuutta saada merkintää vain tästä verkkokurssista, vaan tämä osa isompaa Tietoliikenteen perusteet -kurssia ja osion arvostelu tapahtuu isomman kurssin osana. Tämän kurssin koko sisältö katetaan ma 23.3. minikokeessa.
