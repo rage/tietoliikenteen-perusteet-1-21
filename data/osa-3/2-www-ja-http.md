@@ -8,9 +8,11 @@ hidden: false
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
 
 
-- Tiedät miten http protokollana toimii
+- Tiedät miten http protokollana toimii 
+- Osaat kuvata, miten http protokollalla viestien vaihto tapahtuu. 
 - Osaat kertoa millainen protokollan viestin rakenne on ja millaisia arvoja eri kentillä on
 - Hahmotat myös miten protokollan toiminnallisuuteen vaikuttaa viestin rakenne ja kenttien arvot
+- Osaat kertoa, miksi https-protokolla on http-protokollaa parempi tietyissä tilanteissa.
 
 </text-box>
 
@@ -20,9 +22,18 @@ hidden: false
 
 Ykkösosiosta toivottavasti muistat, että WWW-sivuihin viitataan URL-osoitteella. Esimerkiksi tämän sivun URL-osoite on https://johdatus-tietoliikenteeseen-19.mooc.fi/osa-3/2-www-ja-http. Osoitteen alku https kertoo, että kommunikointi web-selaimen ja web-palvelimen välillä tapahtuu käyttäen HTTPS-protokollaa. Se on HTTP-protokollan salattu versio. Tällä kurssilla tutustumme HTTP-protokollaan, jota ei ole salattu. Seuraava osa johdatus-tietoliikenteeseen-19.mooc.fi on web-palvelimen nimi. Tämän nimen perusteella tietoliikenteessä osataan ensin hakea laitteen oikea IP-osoite DNS-nimipalvelun avulla. Koska näitä sivuja jakava web-palvelin toimii googlen pilvipalvelulla, niin eri käyttäjät voivat saada sille eri IP-osoitteen. Minulle sivut tulivat juuri äsken IP-osoitteesta 130.211.93.80.
 
+![www-palvelin yhdistettynä useisiin selaimiin http-protokollalla](../img/www-http-selain.svg)
+
+KUVA: Kuvassa on sovelluskerroksen www-palvelun eri osia (www-selaimia ja www-palvelin), jotka kommunikoivat keskenään käyttäen HTTP-protokollaa.
+
+
 Web-palvelimet ja web-selaimet käyttävät omaan keskinäiseen kommunikointiinsa HTTP-protokollaa. HTTP-protokolla on meidän ihmisten kannalta sikäli kiva, että se on tekstipohjainen, joten meidän on helppo lukea protokollan viestejä ja niiden sisältöjä. Jotkut muut protokollat siirtävät viestejä binäärilukuina. Yksi esimerkki tällaisesta protokollasta on HTTP:stä kehitetty salattu versio HTTPS.
 
-![www-palvelin yhdistettynä useisiin selaimiin http-protokollalla](../img/www-http-selain.svg)
+Yleisesti [salauksen](https://fi.wikipedia.org/wiki/Salaus) tavoitteena on aina suojata tietoa siten, että se olisi vain asiallisten toimijoiden luettavissa. Tyypillisesti tämä tehdään jollain salausmenetelmällä, jolla viesti koodataan siten, että se on vain viestinnän osapuolten luettavissa. Erilaisia salausmenetelmiä käytetään tietoliikenteen lisäksi muuallakin. Se liittyy yleisemminkin tiedon suojaukseen ja käsitellään usein tietoturva -kursseilla.
+
+Oman turvallisuuden vuoksi on hyvä nykyisin varmistua siitä, että pyrkii aina käyttämään protokollan salattua versiota, jolloin mahdolliset pahantahtoiset toimivat voivat kyllä kuunella viestiä, mutta eivät ymmärrä sen sisältöä.
+
+
 
 
 ## HTTP - protokolla
