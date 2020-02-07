@@ -29,13 +29,13 @@ Huomaa, että opintopisteellisiin suorituksiin liittyy myös muita pakollisia os
 
 ### Avoimen yliopiston opiskelijat
 
-Teidän täytyy ilmoittautua Helsingin yliopiston avoimen yliopiston opiskelijaksi ja tämän kurssin opiskelijaksi avoimen yliopiston kautta viimeistään 18.5. (Ilmoittautuminen on siis avattu uudelleen niille, jotka ovat tehneet jo kurssin tehtäviä, mutta unohtaneet ilmoittautua maaliskuussa.)
+Teidän täytyy ilmoittautua Helsingin yliopiston avoimen yliopiston opiskelijaksi ja tämän kurssin opiskelijaksi avoimen yliopiston kautta viimeistään XX.XX.
 
-Teillä on mahdollisuus saada kurssista [Johdatus tietoliikenteeseen](https://courses.helsinki.fi/fi/aytkt200041/128807054) 2 op:n suoritusmerkintä noudattamalla kurssin ohjeita. Tähän kurssiin liittyy koe, joka tehdään yliopiston moodle-alustalla.
+Teillä on mahdollisuus saada kurssista [Tietoliikenteen perusteet 1](https://courses.helsinki.fi/fi/aytkt200041/130350119) 2 op:n suoritusmerkintä noudattamalla kurssin ohjeita. Tähän kurssiin liittyy koe, joka tehdään yliopiston moodle-alustalla.
 
-Ilmoittautumisohjeet kurssin sivulla [Johdatus tietoliikenteeseen](https://courses.helsinki.fi/fi/aytkt200041/128807054).
+Ilmoittautumisohjeet kurssin sivulla. Noudata ilmoittautumisessa avoimen yliopiston ohjeita.
 
-Jos teillä ei ole vielä Helsingin yliopiston tunnuksia, odottakaa ilmoittautumisen jälkeen 24 tuntia, jotta tietonne voi siirtyä seuraavana yönä järjestelmien välillä. Sen jälkeen saatte tunnukset seuraamalla Helsingin yliopiston ohjetta käyttäjätunnusten aktivointiin: [https://helpdesk.it.helsinki.fi/ohjeet/kirjautuminen-ja-yhteydet/kayttajatunnus/ohjeet-yliopiston-kayttajatunnuksen-aktivointiin](https://helpdesk.it.helsinki.fi/ohjeet/kirjautuminen-ja-yhteydet/kayttajatunnus/ohjeet-yliopiston-kayttajatunnuksen-aktivointiin). Huom! Osa oppilaista on raportoinut, että aktivointi ei toimi Safari-selaimella. Suosittelemme että teette aktivoinnin joko Chromella tai Firefoxilla.
+
 
 
 ### HY:n omat tutkinto-opiskelijat
@@ -44,7 +44,3 @@ Tämä on osa kurssia [Tietoliikenteen perusteet](https://courses.helsinki.fi/fi
 
 Helsingin yliopiston opiskelijoiden pitää ilmoittautua kurssille OODIssa.
 
-
-## Tulevaisuudessa
-
-Tästä kurssille on tarkoitus tehdä myös ohjeistusta koulujen opettajille, jotka voivat halutessaan tarjota kurssia omille oppilailleen kurkistukseksi yliopisto-opintoihin. Nämä ohjeet eivät ole käytettävissä vielä keväällä 2020.
