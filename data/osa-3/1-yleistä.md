@@ -6,8 +6,9 @@ hidden: false
 
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
 
-- Tutustut sovelluskerroksen toimintoihin.
-- Osaat kuvata, miten http protokollalla viestien vaihto tapahtuu. Osaat kertoa, miksi https-protokolla on http-protokollaa parempi tietyissä tilanteissa.
+- Tutustut verkkosovelluksiin ja niiden arkkitehtuureihin.
+- Tutustut myös sovelluskerroksen toimintoihin ja kuljetuskerroksen palveluihin niille.
+- Osaat kertoa millaisia palveluja sovelluskerroksella toimiva verkkosovellus ja sen toteuttaja voivat olettaa sen alapuolella olevilta kerroksilta.
 
 </text-box>
 
@@ -21,7 +22,7 @@ Tietoverkon näkökulmasta sovelluskerroksella mietitään asioita vain kahden t
 
 Verkkosovelluksessa on siis useita eri paikoissa suoritettavia osia, jotka kommunikoivat keskenään tietoverkon välityksellä. Kukin sovelluksen palanen sekä lähettää että vastaanottaa viestejä muilta paloilta. Verkkosovellus voidaan toteuttaa monella eri tekniikalla ja hyvin erilaisilla abstraktiotasoilla. Perinteisessä internetin protokollapinossa ne kaikki kuuluvat sovelluskerrokselle, vaikka todellisuudessa osa näistä menetelmistä käyttää tiettyjä muita sovelluskerroksen palveluja oman toimintansa pohjana. Esimerkiksi web-sovellukset suoritetaan selaimessa, joka käyttää alun perin tekstipohjaisten www-sivujen siirtoon kehitettyä http-protokollaa oman kommunikointinsa pohjana.
 
-Uudempia sovelluskerroksella tapahtuvia asioita ovat esimerkiksi esineiden internetiin (Internet of Things, IoT) liittyvät erilaisia ideat ja toteutukset, kuten ajatus siitä, että autot voisivat kommunikoida keskenään ja välittää esimerkiksi ruuhka- ja kelitietoja automaattisesti toisilleen. Näissäkin kommunikointi pohjautuu samoihin periaatteisiin, joita käymme tämän kurssin puitteissa läpi vähän perinteisemmillä esimerkeillä.
+Uudempia sovelluskerroksella tapahtuvia asioita ovat esimerkiksi esineiden internetiin (Internet of Things, IoT) liittyvät erilaiset ideat ja toteutukset, kuten ajatus siitä, että autot voisivat kommunikoida keskenään ja välittää esimerkiksi ruuhka- ja kelitietoja automaattisesti toisilleen. Näissäkin kommunikointi pohjautuu samoihin periaatteisiin, joita käymme tämän kurssin puitteissa läpi vähän perinteisemmillä esimerkeillä.
 
 Verkkosovelluksen toteuttajalla, tekeepä hän web-sovellusta tai autojen välistä viestintää, on vastuullaan suuri joukko erilaisia päätöksiä sovelluksen toimintaan liittyen. Hänen täytyy miettiä sovelluksen arkkitehtuurin lisäksi myös osien välistä kommunikointia. Täytyy päättää mm. viestien rakenne ja sisältö, viestien välitysjärjestys, millaista välityspalvelua kuljetuskerrokselta halutaan, jne.  Viestien välitykseen liittyy mm. siirtoon kuluva aika, siirrettävän tiedon tarvitsema kapasiteetti, siirron luotettavuus ja mahdollisesti tarvittava salaus. Lisäksi on mietittävä saako viestejä kadota ja jos saa, niin miten sovellus silloin reagoi. Entä sallitaanko suuret viipeet siirrossa, ja mikä on tarvittava siirtokapasiteetti tai verkon läpäisykyky (throughput). Tällä kurssilla emme käy läpi sovelluksen suunnittelun tai toteutuksen näkökulmaa. Niitä käsittelevät muut kurssit, kuten esimerkiksi verkkosovellusten toteuttaminen tai web-sovellusohjelmointi.
 
