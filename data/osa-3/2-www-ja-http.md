@@ -10,8 +10,8 @@ hidden: false
 
 - Tiedät miten http protokollana toimii 
 - Osaat kuvata, miten http protokollalla viestien vaihto tapahtuu. 
-- Osaat kertoa millainen protokollan viestin rakenne on ja millaisia arvoja eri kentillä on
-- Hahmotat myös miten protokollan toiminnallisuuteen vaikuttaa viestin rakenne ja kenttien arvot
+- Osaat kertoa millainen protokollan viestin rakenne on ja millaisia arvoja eri kentillä on.
+- Hahmotat myös miten protokollan toiminnallisuuteen vaikuttavat viestin rakenne ja kenttien arvot.
 - Osaat kertoa, miksi https-protokolla on http-protokollaa parempi tietyissä tilanteissa.
 
 </text-box>
@@ -20,7 +20,7 @@ hidden: false
 ## WWW-palvelu
 
 
-Ykkösosiosta toivottavasti muistat, että WWW-sivuihin viitataan URL-osoitteella. Esimerkiksi tämän sivun URL-osoite on https://johdatus-tietoliikenteeseen-19.mooc.fi/osa-3/2-www-ja-http. Osoitteen alku https kertoo, että kommunikointi web-selaimen ja web-palvelimen välillä tapahtuu käyttäen HTTPS-protokollaa. Se on HTTP-protokollan salattu versio. Tällä kurssilla tutustumme HTTP-protokollaan, jota ei ole salattu. Seuraava osa johdatus-tietoliikenteeseen-19.mooc.fi on web-palvelimen nimi. Tämän nimen perusteella tietoliikenteessä osataan ensin hakea laitteen oikea IP-osoite DNS-nimipalvelun avulla. Koska näitä sivuja jakava web-palvelin toimii googlen pilvipalvelulla, niin eri käyttäjät voivat saada sille eri IP-osoitteen. Minulle sivut tulivat juuri äsken IP-osoitteesta 130.211.93.80.
+Ykkösosiosta toivottavasti muistat, että WWW-sivuihin viitataan URL-osoitteella. Esimerkiksi tämän sivun URL-osoite on https://tietoliikenteen-perusteet-1-20.mooc.fi/osa-3/2-www-ja-http. Osoitteen alku https kertoo, että kommunikointi web-selaimen ja web-palvelimen välillä tapahtuu käyttäen HTTPS-protokollaa. Se on HTTP-protokollan salattu versio. Tällä kurssilla tutustumme HTTP-protokollaan, jota ei ole salattu. Seuraava osa tietoliikenteen-perusteet-1-20.mooc.fi on web-palvelimen nimi. Tämän nimen perusteella tietoliikenteessä osataan ensin hakea laitteen oikea IP-osoite DNS-nimipalvelun avulla. Koska näitä sivuja jakava web-palvelin toimii googlen pilvipalvelulla, niin eri käyttäjät voivat saada sille eri IP-osoitteen. Minulle sivut tulivat juuri äsken IP-osoitteesta 130.211.93.80.
 
 ![www-palvelin yhdistettynä useisiin selaimiin http-protokollalla](../img/www-http-selain.svg)
 
@@ -110,7 +110,7 @@ Varmenteisiin tuleekin törmättyä lähinnä silloin, kun jonkun organisaation 
 
 Varmenteita käytetään siis osana julkisen avaimen salakirjoitusjärjestelmää ja oikeastaan tässä vain varmennetaan, että julkinen avain ja siihen liittyvä salainen avain on varmennuspalvelun mukaan oikeasti kyseisen henkilön tai organisaation käytössä. Tämän vuoksi varmenteet ovat Wikipediassa kuvattu osana [julkisten avainten hallintajärjestelmää](https://fi.wikipedia.org/wiki/PKI).
 
-Jos varmenteet ja ylipäätään sähköiseen asiointiin liittyvä teemat kiinnostavat, niin [Digisaatio-sivustolle](http://digisaatio.fi/wiki/) on Juha Tuomala koonnut omia näkemyksiään ja kertoo oman käsityksensä aiheesta.
+Jos varmenteet ja ylipäätään sähköiseen asiointiin liittyvät teemat kiinnostavat, niin [Digisaatio-sivustolle](http://digisaatio.fi/wiki/) on Juha Tuomala koonnut omia näkemyksiään ja kertoo oman käsityksensä aiheesta.
 
 
 ## Välityspalvelin
@@ -121,7 +121,7 @@ Välityspalvelin (engl. proxy server) hakee internetistä tietoa työasemien puo
 
 Välityspalvelin siis katkaisee aiemmin suoran yhteyden asiakkaan ja palvelimen välillä ja ottaa itselleen molemmat roolit. Se toimii palvelimena alkuperäiselle asiakkaalle ja asiakkaana alkuperäiselle palvelimelle. Samalla se vaikuttaa evästeiden käyttöön, kun ne eivät valukaan alkuperäiseltä palvelimelta alkuperäiselle asiakkaalle vaan alkuperäisen palvelimen lähettämät evästeet jäävät välityspalvelimelle.
 
-Koska verkkoliikenne ei ole ilmaista, niin näin organisaatiot voivat vähentää liikennettä ja säästää kuluissa. Jos vaikkapa ajatellaan, että Helsingin yliopiston verkkokurssilla opiskelijoiden pitää katsoa joku Youtubeen taltioitu video, niin silloin video siirretään vain kertaalleen Youtuben palvelimelta yliopiston välityspalvelimelle ja opiskelijoiden selaimet hakevatkin videon tältä välityspalvelimelta eivätkä suoraan Youtuben palvelimelta. Tämä toki edellyttää, että Youtuben palvelin sallii sisällön tilapäisen varastoinnin välityspalvelimella. WWW-palvelin voi vastausviestinsä attribuuttien avulla ohjata tätä toimintaa ja halutessaan jopa kieltää tällaisen välivarastoinnin. Opiskelijoiden kannalta välityspalvelin käyttö säätää aikaa, koska vain ensimmäisenä sivua pyytänyt joutuu odottamaan videon lataamista alkuperäiseltä palvelimelta. Muut saavat sen suoraan yliopiston sisäverkosta. Tavallisesti organisaation oma verkko on aina nopeampi kuin organisaation internetin yhdistävän linkin nopeus.
+Koska verkkoliikenne ei ole ilmaista, niin näin organisaatiot voivat vähentää liikennettä ja säästää kuluissa. Jos vaikkapa ajatellaan, että Helsingin yliopiston verkkokurssilla opiskelijoiden pitää katsoa joku Youtubeen taltioitu video, niin silloin video siirretään vain kertaalleen Youtuben palvelimelta yliopiston välityspalvelimelle ja opiskelijoiden selaimet hakevatkin videon tältä välityspalvelimelta eivätkä suoraan Youtuben palvelimelta. Tämä toki edellyttää, että Youtuben palvelin sallii sisällön tilapäisen varastoinnin välityspalvelimella. WWW-palvelin voi vastausviestinsä attribuuttien avulla ohjata tätä toimintaa ja halutessaan jopa kieltää tällaisen välivarastoinnin. Opiskelijoiden kannalta välityspalvelin käyttö säätää aikaa, koska vain ensimmäisenä sivua pyytänyt joutuu odottamaan videon lataamista alkuperäiseltä palvelimelta. Muut saavat sen suoraan yliopiston sisäverkosta. Tavallisesti organisaation oma verkko on aina nopeampi kuin organisaation internetiin yhdistävän linkin nopeus.
 
 Välityspalvelin tarjoaa myös mahdollisuuksia valvoa verkkosivujen käyttöä. Jos kaikki tietyn organisaation liikenne ohjataan aina välityspalvelimen kautta, niin välityspalvelin ei välttämättä teekään kaikkia pyyntöjä eteenpäin vaan palauttaa virheruudun kyseistä sivua pyytäneelle asiakkaalle. Vastaavasti välityspalvelin voi seurata eri asiakkaiden liikennöintiä ja näin vaikuttaa käyttäjien yksityisyyden suojan heikkenemiseen. Onneksi yleensä voimme toki luottaa oman organisaation tai palveluntarjoajan toimintaan ja siihen, että sen välityspalvelin toimii lakien mukaan, mutta joskus terve epäilys on kuitenkin paikallaan.
 
