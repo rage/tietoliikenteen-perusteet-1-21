@@ -17,9 +17,7 @@ Kevään 2019 kurssin opiskelijoita tuli palautetta ja parannusehdotuksia. Niide
 Kurssin materiaalin tekijänoikeudet ovat Tiina Niklanderilla ja muilla materiaalin laadintaan osallistuneilla.
     
 Kurssin materiaalin käyttöoikeus on lisensoitu
-<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fi"
-    target="_blank"
-    rel="noopener noreferrer"
+<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fi" target="_blank" rel="noopener noreferrer" >
     Creative Commons BY-NC-SA 4.0
 </a>
  - lisenssillä, joten voit käyttää ja levittää sitä vapaasti, kunhan
