@@ -7,8 +7,9 @@ information_page: true
 
 ## Kiitos kaikille
 
-Tähän Kurssin ensimmäisen version (Kevät 2019) tekoon ovat osallistuneet vastuuhenkilön Tiina Niklander lisäksi kurssin muut opettajat Terho Uotila ja Mikko Rinta-Homi. Erityisesti heille kuuluu kiitos siitä, että tässä versiossa on tekstin lisäksi myös kuvia.
+Kurssin ensimmäisen version tekoon keväällä 2019 ovat osallistuneet vastuuhenkilön Tiina Niklander lisäksi kurssin muut opettajat Terho Uotila ja Mikko Rinta-Homi. Erityisesti heille kuuluu kiitos siitä, että tässä versiossa on tekstin lisäksi myös kuvia.
 
+Kevään 2019 kurssin opiskelijoita tuli palautetta ja parannusehdotuksia. Niiden avulla kurssia on muokattu. Kiitos näistä kaikista kommnteista ja ehdotuksista.
 
 ## Materiaalin lisenssi
 
@@ -23,7 +24,7 @@ Kurssin materiaalin käyttöoikeus on lisensoitu
 >
     Creative Commons BY-NC-SA 4.0
 </a>
--lisenssillä, joten voit käyttää ja levittää sitä vapaasti, kunhan
+ - lisenssillä, joten voit käyttää ja levittää sitä vapaasti, kunhan
 alkuperäisten tekijöiden nimiä ei poisteta. Jos teet muutoksia
 materiaaliin ja haluat levittää muunneltua versiota, se täytyy
 lisensoida samalla lisenssillä. Materiaalien käyttö kaupalliseen
