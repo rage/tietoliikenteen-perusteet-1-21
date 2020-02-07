@@ -5,22 +5,27 @@ information_page: true
 banner: true
 ---
 
-# Tietoa kurssista
+## Tietoa kurssista
 
-Johdatus tietoliikenteeseen on osa Helsingin yliopiston tietojenkäsittelytieteen kandiohjelman tietoliikenteen opetusta.  Kurssin sisältö on valikoitu tietoliikenteen käyttäjän tarpeista lähtien.
-
+Tietoliikenteen perusteet 1 on osa Helsingin yliopiston tietojenkäsittelytieteen kandiohjelman opiskelijoiden Tietoliikenteen perusteet opintojaksoa.  Tämän kurssin sisältö on valikoitu tietoliikenteen käyttäjän tarpeista lähtien.
 
 Tämän kurssin jälkeen tunnet keskeiset tietoliikenteen käsitteet ja lyhenteet. Lisäksi sinulla on yleiskuva siitä, miten tietoliikenne ja erityisesti internet toimii. Näin sinulla on valmius itsenäisesti opiskella lisää ja lukea alan suomenkielistä kirjallisuutta.
 
+Kurssin sisältöjä syventää jatko-osa Tietoliikenteen perusteet 2.
 
 ## Kenelle tarkoitettu
 
-Tämä kevään 2019 kurssi on tarkoitettu
+Tämä kevään 2020 kurssi on tarkoitettu kaikille aiheesta kiinnostuneille.
 
-a) Avoimen yliopiston opiskelijoille, erityisesti heille, jotka tekevät Digital education for all (DEFA) -hankkeen mukaisia opintoja. HUOM: Ilmoittaudu viimeistään 18.5. Viimeinen mahdollinen kurssikokeen suorituspäivä on 31.5. ja siis ehdottomasti viimeinen ilmoittautumispäivä avoimeen yliopistoon on 18.5.
+Kurssin suorittamisesta voi saada opintopisteitä osallistumalla joko
 
-b) Helsingin yliopiston tietojenkäsittelytieteen kandidaatin koulutusohjelman mukaisia opintoja tekeville.
+a) tutkinto-opiskelijoille tarkoitetulle kurssille [TKT20004 Tietoliikenteen perusteet](https://courses.helsinki.fi/fi/tkt20004/131058728), joka alkaa 9.3.
 
+tai
+
+a) Avoimen yliopiston opiskelijoille, erityisesti DEFA-opintoja tekeville, tarkoitetulle kurssille [AYTKT200041 Avoin yo: Tietoliikenteen perusteet 1, MOOC, kevät 2020](https://courses.helsinki.fi/fi/aytkt200041/130350119), joka alkaa 9.3. 
+
+Huomaa, että opintopisteellisiin suorituksiin liittyy myös muita pakollisia osioita kuin vain tämä verkkomateriaali.
 
 ### Avoimen yliopiston opiskelijat
 
@@ -33,15 +38,13 @@ Ilmoittautumisohjeet kurssin sivulla [Johdatus tietoliikenteeseen](https://cours
 Jos teillä ei ole vielä Helsingin yliopiston tunnuksia, odottakaa ilmoittautumisen jälkeen 24 tuntia, jotta tietonne voi siirtyä seuraavana yönä järjestelmien välillä. Sen jälkeen saatte tunnukset seuraamalla Helsingin yliopiston ohjetta käyttäjätunnusten aktivointiin: [https://helpdesk.it.helsinki.fi/ohjeet/kirjautuminen-ja-yhteydet/kayttajatunnus/ohjeet-yliopiston-kayttajatunnuksen-aktivointiin](https://helpdesk.it.helsinki.fi/ohjeet/kirjautuminen-ja-yhteydet/kayttajatunnus/ohjeet-yliopiston-kayttajatunnuksen-aktivointiin). Huom! Osa oppilaista on raportoinut, että aktivointi ei toimi Safari-selaimella. Suosittelemme että teette aktivoinnin joko Chromella tai Firefoxilla.
 
 
-### HY:n omat opiskelijat
+### HY:n omat tutkinto-opiskelijat
 
-Tämä on osa kurssia [Tietoliikenteen perusteet](https://courses.helsinki.fi/fi/tkt20004/124962079). Tämä ei siis ole itsenäinen opintokokonaisuus vaan vain osio laajemmasta Tietoliikenteen perusteet -opintojaksosta. Tämän osion hallinta testataan kurssin ensimmäisessä minikokeessa. Tämän osien suorituksesta ei siis anneta erillistä suoritusmerkintää.
+Tämä on osa kurssia [Tietoliikenteen perusteet](https://courses.helsinki.fi/fi/tkt20004/131058728). Tämä ei siis ole itsenäinen opintokokonaisuus vaan osa laajempaa kurssia. Tämän osien suorituksesta ei anneta erillistä suoritusmerkintää. Osion sisällön hallinta testataan kurssin ensimmäisessä minikokeessa ma 23.3.
 
 Helsingin yliopiston opiskelijoiden pitää ilmoittautua kurssille OODIssa.
 
 
 ## Tulevaisuudessa
 
-Kurssin materiaalia päivitetään tämän kevään kokemuksen perusteella ja lisäksi toteutetaan jatkokurssi, jotka yhdessä kattavat tietojenkäsittelytieteen kandiohjelman pakollisen opintojakson Tietoliikenteen perusteet.
-
-Tästä kurssille on tarkoitus tehdä myös ohjeistusta koulujen opettajille, jotka voivat halutessaan tarjota kurssia omille oppilailleen kurkistukseksi yliopisto-opintoihin. Nämä ohjeet eivät ole käytettävissä vielä keväällä 2019.
+Tästä kurssille on tarkoitus tehdä myös ohjeistusta koulujen opettajille, jotka voivat halutessaan tarjota kurssia omille oppilailleen kurkistukseksi yliopisto-opintoihin. Nämä ohjeet eivät ole käytettävissä vielä keväällä 2020.
