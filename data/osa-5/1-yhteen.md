@@ -94,7 +94,7 @@ Näiden vaiheiden jälkeen viesti on vihdoin saatu siirrettyä yhden linkin verr
 
 Reitittimen linkkikerros poistaa viestistä linkkikerroksen kirjekuoren ja antaa verkkokerroksen kirjekuoren verkkokerrokselle tarkasteltavaksi. Reititin huomaa, että viesti ei ole sille tarkoitettu, joten se selvittää seuraavan vastaanottajan (usein joku toinen reititin) IP-osoitteen ja sen perusteella kyseisen laitteen linkkikerroksen osoitteen ja antaa viestin linkkikerrokselle välitettäväksi tälle laitteelle.
 
-Näin viesti etenee vähitellen reitittimeltä toiselle, kunnes se saapuu Helsingin ylipiston reitittimelle.
+Näin viesti etenee vähitellen reitittimeltä toiselle, kunnes se saapuu Helsingin yliopiston reitittimelle.
 
 Yliopiston reititin vastaanottaa viestin. Sekin tarkastelee vastaanottajan IP-osoitetta ja aliverkkopeitteen avulla havaitsee sen kuuluvan tiettyyn reitittimeen liitettyyn aliverkkoon, joten se lähettää viestin linkkikerroksen avulla sinne. Enää ei siis lähetetä viestiä jollekin välittävälle laitteelle vaan suoraan palvelimelle.
 
