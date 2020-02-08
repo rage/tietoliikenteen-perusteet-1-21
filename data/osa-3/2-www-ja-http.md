@@ -88,14 +88,16 @@ Palvelimet käyttävät evästeitä, koska niiden avulla voi tavallaan kiertää
 
 KUVA: Kuvassa on hyvin tyypillinen protokollien kuvauksessa käytetty kaavio, jossa aika kulkee ylhäältä alas. Meillä on siinä kaksi solmua (laitetta, ohjelmaa, kommunikointipartneria) Selain ja Palvelin. Ne vaihtavat keskenään erilaisia HTTP-viestejä ja kaaviosta näemme missä järjestyksessä viestien lähettäminen ja vastaanottaminen tapahtuu. Tässä kaaviossa on lisäksi kuvattuna mitä tietoa näillä solmuilla on ja milloin ne sitä käyttävät. Selain säilyttää evästetietoja tiedostossa ja palvelin yleensä käyttää tietokantaa asiakastietojen säilyttämiseen.  
 
-Palvelin voi siis tallettaa evästeisiin tarvitsemiaan tietoja. Tyypillinen eväste on cfduid, johon palvelin yleensä tallettaa käyttäjän yksilöivän tunnisteen. Näin palvelin voi yhdistää saapuvan HTTP pyynnön aiempiin pyyntöihin ja selvittää mitä kyseinen käyttäjä on aiemmin palvelimen kanssa tehnyt. Näin palvelin voi analysoida saapuneita pyyntöjä ja havaita mitkä pyynnöt liittyvät samaan käyttäjään. Tällä voi olla nettipalvelun tarjoajan kannalta merkitystä esim. kohdennetussa mainonnassa tai vaikkapa palvelun eri osien kiinnostavuutta arvioitaessa.
+Palvelin voi siis tallettaa evästeisiin tarvitsemiaan tietoja. Tyypillinen eväste on cfduid, johon palvelin yleensä tallettaa käyttäjän yksilöivän tunnisteen. Näin palvelin voi yhdistää saapuvan HTTP pyynnön aiempiin pyyntöihin ja selvittää mitä kyseinen käyttäjä on aiemmin palvelimen kanssa tehnyt. Tällä voi olla nettipalvelun tarjoajan kannalta merkitystä esim. kohdennetussa mainonnassa tai vaikkapa palvelun eri osien kiinnostavuutta arvioitaessa.
 
 Voit omasta selaimestasi hallinnoida evästeitä ja jopa katsoa mihin kaikkiin sivustoihin sinun selaimessasi on tallessa evästeitä. Varsin monet sivut käyttävät Googlen analytiikkapalvelua sivujen käyttötietojen seurannassa. Tähän liittyen minullakin on selaimessani paljon kyseisen palvelun evästeitä eri sivustoilta.
 
-Jos haluat selvittää mitä eri evästeet tarkoittavat tai mihin käyttötarkoitukseen ne todennäköisesti liittyvät, on englanninkieliselle [Cookiepedia-sivustolle](https://cookiepedia.co.uk/all-about-cookies) koottu evästeisiin liittyvää informaatiota. Siellä voi tehdä hakuja evästeen nimellä.
+Toki palvelimet käyttävät muitakin menetelmiä käyttäjien seurantaan ja analysointiin, mutta evästeet sentään säilytetään asiakkaan puolella, jolloin ne voi halutessaan poistaa. Esimerkiksi verkkosivulle sijoitetut näkymättömät elementit (kuten [web bug](https://fi.wikipedia.org/wiki/Web_bug)) tai pyynnön tehneen laitteen IP-osoite eivät ole selaimen tai käyttäjän hallittavissa, koska protokollan mukaan kaikki sivun elementit käydään hakemssa ja jotta viestintä onnistuu, niin palvelimen pitää tietää IP-osoite.
 
+Jos haluat selvittää, mitä eri evästeet tarkoittavat tai mihin käyttötarkoitukseen ne todennäköisesti liittyvät, on englanninkieliselle [Cookiepedia-sivustolle](https://cookiepedia.co.uk/all-about-cookies) koottu evästeisiin liittyvää informaatiota. Siellä voi tehdä hakuja evästeen nimellä.
 
 <quiz id="5c7fd7e2ddb6b814af327e20"></quiz>
+
 
 
 ## Varmenteet
