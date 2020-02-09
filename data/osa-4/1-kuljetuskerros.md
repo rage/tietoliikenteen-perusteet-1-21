@@ -77,4 +77,4 @@ Alkuperäiset kuljetuskerroksen protokollat eivät tarjoa salausta tiedonsiirron
 
 <!-- kuljetuskerroksen tehtävistä essee -->
 <quiz id="a9702473-86ed-4b36-b0d5-dffb15b68730"></quiz>
-(Esseetehtävä vaihdettu 13.3.2019 - tehtäväksi anto lisätty.)
+
