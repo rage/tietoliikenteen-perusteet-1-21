@@ -8,11 +8,11 @@ hidden: false
 <text-box variant='learningObjectives' name='Oppimistavoitteet'>
 
 
-- Tiedät miten http protokollana toimii 
-- Osaat kuvata, miten http protokollalla viestien vaihto tapahtuu. 
+- Tiedät miten HTTP protokollana toimii 
+- Osaat kuvata, miten HTTP protokollalla viestien vaihto tapahtuu. 
 - Osaat kertoa millainen protokollan viestin rakenne on ja millaisia arvoja eri kentillä on.
 - Hahmotat myös miten protokollan toiminnallisuuteen vaikuttavat viestin rakenne ja kenttien arvot.
-- Osaat kertoa, miksi https-protokolla on http-protokollaa parempi tietyissä tilanteissa.
+- Osaat kertoa, miksi HTTPS-protokolla on HTTP-protokollaa parempi.
 
 </text-box>
 
@@ -96,7 +96,7 @@ Toki palvelimet käyttävät muitakin menetelmiä käyttäjien seurantaan ja ana
 
 Jos haluat selvittää, mitä eri evästeet tarkoittavat tai mihin käyttötarkoitukseen ne todennäköisesti liittyvät, on englanninkieliselle [Cookiepedia-sivustolle](https://cookiepedia.co.uk/all-about-cookies) koottu evästeisiin liittyvää informaatiota. Siellä voi tehdä hakuja evästeen nimellä.
 
-<quiz id="5c7fd7e2ddb6b814af327e20"></quiz>
+<quiz id="a1cc3a77-80d8-4261-9ac2-d5e18e07ad86"></quiz>
 
 
 
