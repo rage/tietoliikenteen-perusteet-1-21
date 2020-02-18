@@ -9,9 +9,9 @@ information_page: true
 
 Kurssista voi saada suoritusmerkinnän vain osallistumalla keväällä 2020 joko kurssille [TKT20004 Tietoliikenteen perusteet](https://courses.helsinki.fi/fi/tkt20004/131058728) tai kurssille [AYTKT200041 Tietoliikenteen perusteet 1](https://courses.helsinki.fi/fi/aytkt200041/130350119).  
 
-Muita todistuksia kurssin suorittamiseste ei anneta. 
+Muita todistuksia kurssin suorittamisesta ei anneta. 
 
-Nämä kaksi kurssia arvostellaan täysin toisistaan riippumatta ja niillä erilaiset suoritustavat. Katso tarkemmin kurssin omalta sivulta tietoa näistä suoritustavoista.
+Nämä kaksi kurssia arvostellaan täysin toisistaan riippumatta ja niillä on erilaiset suoritustavat. 
 
 
 ### AYTKT200041 Tietoliikenteen perusteet 1, 2op
@@ -22,10 +22,10 @@ Pidä huoli, että ilmoittaudut avoimeen yliopistoon tenttiä edeltävällä vii
 
 Ilmoittautumisohje:
 
-1.	Tee Avoimen yliopiston kurssi-ilmoittautuminen.
+1.	Tee [Avoimen yliopiston kurssi-ilmoittautuminen](https://www.avoin.helsinki.fi/palvelut/esittely.aspx?o=130350119).
 2.	Odota 24 tuntia ja aktivoi Helsingin yliopiston käyttäjätunnus. Saat ohjeet aktivointia varten ilmoittautumista seuraavana päivänä.
-3.	Kirjaudu kurssisivulle, josta saat kurssiavaimen Moodleen kirjautumista varten.
-4.	Kirjaudu kurssin Moodleen Helsingin yliopiston käyttäjätunnuksella ja kurssiavaimella
+3.	Kirjaudu [Opintoni-sivulle](https://student.helsinki.fi/opintoni), josta saat kurssiavaimen ja linkin Moodleen kirjautumista varten.
+4.	Kirjaudu kurssin Moodleen Helsingin yliopiston käyttäjätunnuksella ja kurssiavaimella.
 
 HUOM!
 -	Ilmoittautuminen Avoimeen yliopiston on mahdollista vain 18.5.2020 saakka
