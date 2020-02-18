@@ -20,6 +20,20 @@ Kurssin voi tenttiä moodlessa joko maalis-huhtikuun vaihteessa, pääsiäisen j
 
 Pidä huoli, että ilmoittaudut avoimeen yliopistoon tenttiä edeltävällä viikolla, jotta käyttöoikeutesi tulee voimaan ajoissa. Et siis tarvitse erillistä tentti-ilmoittautumista, vaan normaali kurssi-ilmoittautuminen riittää.
 
+Ilmoittautumisohje:
+
+1.	Tee Avoimen yliopiston kurssi-ilmoittautuminen.
+2.	Odota 24 tuntia ja aktivoi Helsingin yliopiston käyttäjätunnus. Saat ohjeet aktivointia varten ilmoittautumista seuraavana päivänä.
+3.	Kirjaudu kurssisivulle, josta saat kurssiavaimen Moodleen kirjautumista varten.
+4.	Kirjaudu kurssin Moodleen Helsingin yliopiston käyttäjätunnuksella ja kurssiavaimella
+
+HUOM!
+•	Ilmoittautuminen Avoimeen yliopiston on mahdollista vain 18.5.2020 saakka
+•	Vain niiden opiskelijoiden opintosuoritukset voidaan kirjata Helsingin yliopiston opintorekisteriin, jotka ovat tehneet kurssi-ilmoittautumisen Avoimeen yliopistoon ja suorittaneet kurssin loppuun ohjeiden mukaisesti.
+•	Jos olet jo tehnyt Avoimen yliopiston kurssi-ilmoittautumisen ennen kurssin alkua, ilmoittautumisesi on kunnossa.
+
+
+
 
 ### TKT20004 Tietoliikenteen perusteet, 5 op
 
