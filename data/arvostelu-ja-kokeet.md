@@ -28,9 +28,9 @@ Ilmoittautumisohje:
 4.	Kirjaudu kurssin Moodleen Helsingin yliopiston käyttäjätunnuksella ja kurssiavaimella
 
 HUOM!
-•	Ilmoittautuminen Avoimeen yliopiston on mahdollista vain 18.5.2020 saakka
-•	Vain niiden opiskelijoiden opintosuoritukset voidaan kirjata Helsingin yliopiston opintorekisteriin, jotka ovat tehneet kurssi-ilmoittautumisen Avoimeen yliopistoon ja suorittaneet kurssin loppuun ohjeiden mukaisesti.
-•	Jos olet jo tehnyt Avoimen yliopiston kurssi-ilmoittautumisen ennen kurssin alkua, ilmoittautumisesi on kunnossa.
+-	Ilmoittautuminen Avoimeen yliopiston on mahdollista vain 18.5.2020 saakka
+-	Vain niiden opiskelijoiden opintosuoritukset voidaan kirjata Helsingin yliopiston opintorekisteriin, jotka ovat tehneet kurssi-ilmoittautumisen Avoimeen yliopistoon ja suorittaneet kurssin loppuun ohjeiden mukaisesti.
+-	Jos olet jo tehnyt Avoimen yliopiston kurssi-ilmoittautumisen ennen kurssin alkua, ilmoittautumisesi on kunnossa.
 
 
 
