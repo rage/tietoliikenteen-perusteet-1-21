@@ -31,7 +31,7 @@ Huomaa, että opintopisteellisiin suorituksiin liittyy myös muita pakollisia os
 
 Tätä verkkokurssia voi seurata ja tehdä tehtäviä ilman ilmoittautumista avoimeen yliopistoon.
 
-Jos haluat suoritusmerkinnän kursista, niin sitten sinun täytyy ilmoittautua kursille Helsingin yliopiston avoimen yliopiston opiskelijaksi ja tämän kurssin opiskelijaksi avoimen yliopiston kautta viimeistään XX.XX.
+Jos haluat suoritusmerkinnän kursista, niin sitten sinun täytyy ilmoittautua kursille Helsingin yliopiston avoimen yliopiston opiskelijaksi ja tämän kurssin opiskelijaksi avoimen yliopiston kautta viimeistään 31.3.2020
 
 Teillä on mahdollisuus saada kurssista [Tietoliikenteen perusteet 1](https://courses.helsinki.fi/fi/aytkt200041/130350119) 2 op:n suoritusmerkintä noudattamalla kurssin ohjeita. Tähän kurssiin liittyy koe, joka tehdään yliopiston moodle-alustalla.
 
