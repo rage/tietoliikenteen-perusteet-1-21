@@ -5,15 +5,17 @@ hidden: false
 information_page: true
 ---
 
+
+## Osaamistavoitteet
+
 Tietoliikenteen perusteet -kurssilla on Helsingin yliopiston tietojenkäsittelytieteen kandiohjelmassa määritellyt oppimistavoitteet. Tämä Tietoliikenteen perusteet 1 -kurssi kattaa niistä vain osan.
 
-## Johdatus tietoliikenteeseen MOOC
 
 <table>
     <thead>
     <tr>
         <td>Osa</td>
-        <td>Osaamistavoitteet</td>
+        <td>Tämän kurssin osaamistavoitteet</td>
     </tr>
     </thead>
     <tbody>
