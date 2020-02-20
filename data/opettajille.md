@@ -11,4 +11,6 @@ Kurssin tai sen osan saa ottaa vapaasti osaksi peruskoulun, lukion, ammattikoulu
 
 Meillä ei valitettavasti ole mahdollisuutta tarjota kovinkaan paljoa tukea tähän. Mahdollisia esimerkkejä koekysymyksistä voi kysyä tiina.niklander (ät) helsinki.fi
 
+Opiskelijat voivat myös suorittaa kurssin avoimessa yliopistossa, kun he noudattavat avoimen yliopiston opiskelijoille suunnattuja ohjeita.
+
 Avoimen yliopiston kurssisuoritus luetaan automaattisesti osaksi Helsingin yliopiston opintoja. Huomaa, että tämän osion tekeminen ei korvaa tietojenkäsittelytieteen kandiohjelman pakollista tietoliikenteen perusteet -kurssia.
