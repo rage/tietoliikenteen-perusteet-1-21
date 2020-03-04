@@ -4,6 +4,9 @@ title: 'Nopeudet ja viipeet'
 ---
 
 
+Tietoliikenteessä puhumme verkon nopeudesta, vaikka tietoliikennverkko itse ei mihinkään liiku. Verkon nopeus tarkoittaakin oikestaan verkon välityskysyä eli kuinka paljon dataa verkkoa pitkin pystyy siirtymään tietyssä ajassa.
+
+
 ## Liikennöintinopeudet, viestien kulkuajat ja viipeet
 
 
