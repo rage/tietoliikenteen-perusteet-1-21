@@ -3,7 +3,6 @@ path: '/osa-2/3-kotiverkon-palvelut'
 title: 'Kotiverkon palvelut'
 ---
 
-# Kotiverkon palvelut
 
 Kotiverkon laitteiden tarvitsevat verkkopalvelut eivät poikkea tietoverkkoon liitettyjen laitteiden tarvitsemista palveluista. Kaikki laitteet tarvitsevat itselleen oman IP-osoitteen, jonka avulla ne voidaan tunnistaa. Niiden pitää myös pystyä löytämään muiden laitteiden IP-osoitteita, jotta ne voivat lähettää näille viestejä.
 
