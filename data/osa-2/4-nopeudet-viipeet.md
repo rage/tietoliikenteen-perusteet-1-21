@@ -7,7 +7,7 @@ title: 'Nopeudet ja viipeet'
 Tietoliikenteessä puhumme verkon nopeudesta, vaikka tietoliikenneverkko itse ei mihinkään liiku. Verkon nopeus tarkoittaakin oikestaan verkon välityskysyä eli kuinka paljon dataa verkkoa pitkin pystyy siirtymään tietyssä ajassa.
 
 
-## Liikennöintinopeudet, viestien kulkuajat ja viipeet
+## Verkon nopeus ja viestin kulkuaika
 
 
 Tietoliikenteessä viestin siirtoon menee aikaa. Tämä aika riippuu toisaalta verkon nopeudesta (bitteinä sekunnissa), viestin pituudesta (bitteinä) ja mahdollisista viivästyksistä matkan varrella.
