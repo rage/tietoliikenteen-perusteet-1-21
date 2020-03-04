@@ -1,10 +1,9 @@
 ---
 path: '/osa-3/4-muita'
-title: 'Muita esimerkkejä'
+title: 'Muita esimerkkejä sovelluskerroksen protokollista'
 hidden: false
 ---
 
-## Muita esimerkkejä sovelluskerroksen protokollista
 
 WWW-palvelun ja tiedostopalvelujen lisäksi sovelluskerroksella on satoja muitakin palveluja ja niiden omia protokollia.  Yksi yleisimmistä on sähköpostin lähettämisessä käytetty SMTP. Tutustutaan tässä lyhyestä myös pikaviestintäpalveluun ja virtuaaliseen yksityisverkkoon.
 
