@@ -33,7 +33,7 @@ export function createAccount(data) {
   data.username = uuidv4()
   const body = {
     user: data,
-    origin: "Johdatus tietoliikenteeseen",
+    origin: "Tietoliikenteen perusteet 1",
     language: "fi",
   }
   return new Promise((resolve, reject) => {
