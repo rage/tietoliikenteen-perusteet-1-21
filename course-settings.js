@@ -9,7 +9,7 @@ const courseSettings = {
   quizzesId: "x",
   tmcOrganization: "mooc",
   bannerPath: "banner.svg",
-  studyRightEnabled: true,
+  studyRightEnabled: false,
   sidebarEntries: [
     {
       title: "Tietoa kurssista",
