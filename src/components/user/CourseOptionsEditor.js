@@ -227,7 +227,7 @@ class CourseOptionsEditor extends React.Component {
                   selectedVariant={
                     this.state.currentCourseVariant ||
                     this.props.courseVariant ||
-                    "dl"
+                    "AYTKT200041"
                   }
                   setSelectedVariant={this.setSelectedVariant}
                 />
@@ -252,36 +252,6 @@ class CourseOptionsEditor extends React.Component {
                     </InfoBox>
                   </Row>
                 )}
-
-              <Row>
-                <FormControlLabel
-                  control={
-                    <Checkbox
-                      checked={this.state.applies_for_study_right}
-                      onChange={this.handleCheckboxInput}
-                      name="applies_for_study_right"
-                      value="1"
-                    />
-                  }
-                  label="Aion hakea aikataulutetun Ohjelmoinnin MOOCin kautta opinto-oikeutta (opiskelupaikkaa) Helsingin yliopistoon."
-                />
-              </Row>
-
-              {this.state.applies_for_study_right && (
-                <Row>
-                  <FormControlLabel
-                    control={
-                      <Checkbox
-                        checked={this.state.graduating_next_year}
-                        onChange={this.handleCheckboxInput}
-                        name="graduating_next_year"
-                        value="1"
-                      />
-                    }
-                    label="Valmistun ja saan yliopistokelpoisuuden vasta keväällä 2021"
-                  />
-                </Row>
-              )}
 
               <Row>
                 <FormControlLabel
