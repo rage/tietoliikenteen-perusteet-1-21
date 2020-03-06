@@ -31,7 +31,7 @@ Erilaiset fyysiset johtimet edellyttävät myös niihin liitettäviltä laitteil
 
 <!--  Osion 4 osaamistavoitteet -->
 
-<quiz id="a3c24883-8267-4f32-91f5-d8793915f2d9"></quiz>
+<quiz id="9ea53e78-8dd1-5778-b185-8111ff493767"></quiz>
 
 
 

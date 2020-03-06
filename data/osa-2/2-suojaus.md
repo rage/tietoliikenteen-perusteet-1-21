@@ -19,7 +19,7 @@ Paljon käytetty <b>julkisen avaimen salakirjoitus</b> perustuu avainpareihin, j
 
 Näiden salausmenetelmien turvallisuus perustuu hyvään avainhallintaan. Emmehän me jaa kotiavaintakaan (tai sen kopioita) vapaasti muille. Samoin pitää menetellä oman salaisen avaimen kanssa. Jos joku epäluotettava taho saa haltuunsa minun salaisen avaimeni, niin mikään minun viestintäni ei ole sen jälkeen enää luottamuksellista, koska tämä taho voi vapaasti tutkia kaikkia minulle tulevia salattuja viestejä. Lisäksi kyseinen taho voi väittää olevansa minä salaamalla lähettämänsä viestit minun salaisella avaimellani. Julkista avainta ei pidetä piilossa, joten sen oletetaan olevan kaikilla, jotka haluavat lähettää viestejä minulle.
 
-<div><quiz id="3527c711-21d5-40cc-8dbd-1b2e9e2df8b9"></quiz></div>
+<div><quiz id="813e536c-dbbd-51d7-b09f-222a0d1ce339"></quiz></div>
 
 ## Viestien salaus
 
@@ -60,6 +60,6 @@ Salasanojen hallinnasta on vuonna 2014 julkaistu [Viestintäviraston kyberturval
 
 Salasanat eivät ole tämän kurssin keskeistä sisältöä, mutta jokaiselle joka ylläpitää tai hallinnoi omaa tietoliikenneverkkoaan niiden oikea käyttö on tärkeä osa oman verkon turvallisuutta.
 
-<div><quiz id="3fc79b6e-2898-4295-97f9-209d7577b1e8"></quiz></div>
+<div><quiz id="3c6b9e7f-9626-50ad-9d6b-7f885b31f6f9"></quiz></div>
 
-<div><quiz id="46228388-2ca3-4a6c-b708-23dd693fc999"></quiz></div>
+<div><quiz id="27bdbecb-9a76-5b81-ba63-15a5b8a41604"></quiz></div>

@@ -16,7 +16,7 @@ hidden: false
 
 Aiemmissa osioissa on jo ollut paljon materiaalia eri kerrosten osoitteista.
 
-<quiz id="9e9179e8-7e45-4c81-b0e0-d19cab054a7f"></quiz>
+<quiz id="bb43bf16-0d70-594f-a3e1-82a0d1d277c4"></quiz>
 
 
 ##  Linkkikerros
@@ -41,7 +41,7 @@ Ethernet lisää kehyksen alkuun (ja loppuun) omat otsake (ja lopuke) -tietonsa.
 
 Ethernet on suunniteltu monilähetysverkoksi, jossa kaikki verkon laitteet kuulevat kaiken liikenteen. Nykyiset verkot ovat jo niin laajoja, että vaikka ne loogisesti ovat edelleen monilähetysverkkoja, joissa kaikki kuulevat kaiken liikenteen, niin todellisuudessa niitä on pyritty osittamaan siten, että viestit eivät törmäilisi keskenään. Tähän osittamiseen käytetään nykyisin kytkimiä. Aiemmin käytettiin myös siltoja ja toistimia (repeater). 
 
-<quiz id="9ecd2877-7e75-44ee-96f5-d1eb8fd17917"></quiz>
+<quiz id="6a5ecdd9-fe77-519e-ab06-9751f7ca1d20"></quiz>
 
 
 
@@ -65,4 +65,4 @@ Kytkin tekee välitystyötä linkkikerroksella ja päättää kehyksen vastaanot
 Toistin (repeater) on näistä yksinkertaisin. Se vain välittää kaikki viestit kahden eri segmentin välillä. Toistimia käytetään esimerkiksi pitkillä yhteyksillä signaalin vahvistamiseen. Sen voidaan ajatella toimivan fyysisellä kerroksella, koska se ei millään tavalla tutki välittämänsä sanoman sisältöä. Se vain toistaa viestin bitit sellaisenaan seuraavaan segmenttiin.
 
 
-<quiz id="a1dbfb46-80e4-4b18-ae80-d5f66102e887"></quiz>
+<quiz id="f12a4f1f-4f58-5c8e-8725-14af3863131f"></quiz>
