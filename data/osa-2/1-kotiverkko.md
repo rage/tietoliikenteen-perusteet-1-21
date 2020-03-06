@@ -38,7 +38,7 @@ Tietoliikenneyhteys voidaan rakentaa myös sähköverkon varaan. Tätä datasäh
 
 Joillakin alueilla kaupalliset toimijat eivät koe laajakaistayhteyden toteuttamista kannattavaksi ja laajakaistayhteyttä tarjotaankin siellä täällä myös osuuskuntina. Esimerkiksi Verkko-osuuskunta Ylläksen Laajakaista tarjoaa laajakaistayhteyttä Ylläksellä.
 
-<div><quiz id="5c77f8fcddb6b814af327046"></quiz></div>
+<div><quiz id="4c6f39e3-30a6-41b7-9e9a-27161ad7de41"></quiz></div>
 
 
 ### Kotiverkon ja internetin välinen laite
@@ -75,4 +75,4 @@ WLAN-tukiasema tarjoaa verkkoyhteyden palveluna kaikille laitteille, jotka siihe
 WLAN-reititin tarjoaa langattoman yhteyden lisäksi myös reitityksen langattomaan verkkoon liitettyjen laitteiden ja langallisen verkon laitteiden välillä. Näin meille syntyy kaksi toisistaan loogisesti eristettyä verkkoa. Langattoman verkon laitteiden kommunikoidessa keskenään niiden liikennettä ei ohjata eteenpäin langalliseen verkkoon. Kotiverkko jakautuukin kahteen aliverkkoon, joista toinen on langallinen ja toinen langaton.
 
 
-<div><quiz id="5c78ea6014524713f95a65fb"></quiz></div>
+<div><quiz id="2968136e-1a5a-4b6d-8312-d3bdacdde62f"></quiz></div>

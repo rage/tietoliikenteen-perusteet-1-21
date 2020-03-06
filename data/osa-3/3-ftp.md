@@ -58,4 +58,4 @@ HUOM: Muistathan, että käytän termiä käyttäjä ihmisistä ja termiä asiak
 
 
 
-<quiz id="5c820d9e244fe21455cbd3a6"></quiz>
+<quiz id="302c4f77-1ea9-43e4-9da1-f657d059cb54"></quiz>

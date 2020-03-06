@@ -56,7 +56,7 @@ Laitteet on voitu yhdistää toisiin erilaisilla verkkoteknologioilla. Kullakin 
 Internetin protokollapinon alin, fyysinen, kerros huolehtii bittien siirtämisestä linkkikerroksen laitteiden välillä. Tälläkin kerroksella bittien siirtoon voidaan käyttää erilaisia tekniikoita. Ne voidaan koodata valoksi valokuituun, sähköpulsseiksi koaksiaalikaapeliin tai radioaalloiksi langattoman verkon yhteyksillä. Näitä koodaustapoja emme tällä kurssilla käsittele.
 
 
-<div><quiz id="5c75241a99236814c5bbd859"></quiz></div>
+<div><quiz id="20214fff-cc80-44c2-9173-a44dd51e41aa"></quiz></div>
 
 
 ## Verkkotunnus eli laitteen osoite
@@ -78,4 +78,4 @@ MAC-osoite on 48-bittiä eli 6 tavua. Koska osoite on maailmanlaajuisesti yksil�
 Verkkokerroksella käytetty IP-osoite on tarkoitettu tietyn tietokoneen tai muun internet-verkkoon liitetyn verkkolaitteen tunnistamiseen mutta se ei riitä yhdessä tietokoneessa toimivien useiden sovellusten ja niitä edustavien prosessien tunnistamiseen kyseisssä laitteessa. Siksi verkkokerroksen yläpuolella oleva kuljetuskerros käyttää [porttinumeroa](https://fi.wikipedia.org/wiki/Portti_(tietoliikenne)) tietyn sovelluskerroksen kommunikointiyhteyden tai sovelluksen tunnistamiseen. Porttinumeroita käsitellään hiukan enemmän myöhemmin kun tutustutaan tarkemmin kuljetuskerroksen toimintaan. Sovellukset liitetään tiettyyn porttinumeroon pistokkeilla (socket). Pistokkeet ovat tarpeen ohjelmoijille, jotka tekevät tietoliikennesovelluksia. Koska emme kurssilla opettele tekemään verkkosovelluksia, niin emme tutustu myöskään pistokkeisiin. Eri protokollien kohdalla kerrotaan, jos niihin liittyy sovittuja, standardoituja porttinumeroita, jotka ovat aina ko. sovelluksen käytössä.
 
 
-<div><quiz id="5c7657ca244fe21455cbbf30"></quiz></div>
+<div><quiz id="302a3048-1ea7-4e48-8feb-f64cf6b0053b"></quiz></div>

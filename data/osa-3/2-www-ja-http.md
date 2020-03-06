@@ -68,7 +68,7 @@ HTTP protokolla on tilaton (stateless). Tämä tarkoittaa sitä, että selaimen 
 
 HTTP käyttää TCP:tä viestien välittämiseen. TCP on yhteydellinen, joten asiakas (eli selain) ja palvelin voivat erikseen sopia yhteyden säilyttämisestä tulevia pyyntöjä varten tai palvelin voi sulkea yhteyden heti vastausviestin lähetettyään, jolloin asiakas joutuu avaamaan uuden yhteyden seuraavalle pyynnölle. Koska www-sivun muodostaminen yleensä edellyttää useita sivun elementtien pyyntöjä, niin usein asiakas ja palvelin sopivat yhteyden säilyttämisestä. Toisaalta yhteyden säilyttäminen tilanteessa, jossa lisäpyyntöjä ei tulekaan, kuormittaa palvelimen rajallisia yhteyksiä.
 
-<quiz id="5c7fd0bdfd9fd71425c68ad3"></quiz>
+<quiz id="6540aee3-4071-4f14-9bb4-33c71380ddb5"></quiz>
 
 
 ## HTML - kuvauskieli
@@ -128,4 +128,4 @@ Koska verkkoliikenne ei ole ilmaista, niin näin organisaatiot voivat vähentä�
 Välityspalvelin tarjoaa myös mahdollisuuksia valvoa verkkosivujen käyttöä. Jos kaikki tietyn organisaation liikenne ohjataan aina välityspalvelimen kautta, niin välityspalvelin ei välttämättä teekään kaikkia pyyntöjä eteenpäin vaan palauttaa virheruudun kyseistä sivua pyytäneelle asiakkaalle. Vastaavasti välityspalvelin voi seurata eri asiakkaiden liikennöintiä ja näin vaikuttaa käyttäjien yksityisyyden suojan heikkenemiseen. Onneksi yleensä voimme toki luottaa oman organisaation tai palveluntarjoajan toimintaan ja siihen, että sen välityspalvelin toimii lakien mukaan, mutta joskus terve epäilys on kuitenkin paikallaan.
 
 
-<quiz id="5c8127a3017ffc13eddd02a7"></quiz>
+<quiz id="2fe7601a-1e7d-45e1-ac59-f4f74cf3da4f"></quiz>

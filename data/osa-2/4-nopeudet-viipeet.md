@@ -37,17 +37,17 @@ Ruuhkaisessa verkossa tosin jonotusviive voi olla merkittävä, mutta jätetää
 Tehdään pari hyvin yksinkertaista laskutoimitusta.
 
 
-<quiz id="5c7d121314524713f95a6d1f"></quiz>
+<quiz id="20bd0309-d05f-44a3-8422-a76a08902ee3"></quiz>
 
 
-<quiz id="5c7d1624ddb6b814af327841"></quiz>
+<quiz id="338a3d83-20cd-4d7b-ab0f-1a5b25a511e8"></quiz>
 
 
-<quiz id="5c7e246114524713f95a6fc9"></quiz>
+<quiz id="225ecd83-dac2-46fd-9947-afc27e5d226f"></quiz>
 
 
 ## Yhteenveto
 
 Tässä osassa on käyty läpi kotiverkon toiminnan kannalta keskeiset laitteet ja palvelut. Lisäksi on opittu arvioimaan isojenkin datamäärien tarvitsemia siirtoaikoja.
 
-<quiz id="5c811f16fd9fd71425c68d1a"></quiz>
+<quiz id="332b625c-2091-4780-9601-1a2aa3f3ae7c"></quiz>
