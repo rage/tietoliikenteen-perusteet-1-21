@@ -1,6 +1,8 @@
 import React from "react"
 import styled from "styled-components"
-import Background from "../images/background.jpg"
+import CourseSettings from "../../course-settings"
+
+import BannerImage from "../../banner.svg"
 import withSimpleErrorBoundary from "../util/withSimpleErrorBoundary"
 
 const BannerWrapper = styled.header`
@@ -11,11 +13,9 @@ const BannerWrapper = styled.header`
   justify-content: center;
   align-items: center;
   margin-bottom: 2rem;
-  background-color: white;
-  background-image: url(${Background});
+  background-color: #c0392b;
+  background-image: url(${BannerImage});
   text-align: center;
-  background-position: center;
-  background-size: 100%;
   h1 {
   }
   h2 {
@@ -52,8 +52,8 @@ const SubHeading = styled.div`
 
 const Banner = () => (
   <BannerWrapper>
-    <Heading>Tietoliikenteen perusteet 1</Heading>
-    <SubHeading>Opi miten internet toimii</SubHeading>
+    <Heading>{CourseSettings.name}</Heading>
+    <SubHeading>{CourseSettings.subtitle}</SubHeading>
   </BannerWrapper>
 )
 

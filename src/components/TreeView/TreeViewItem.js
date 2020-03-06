@@ -44,7 +44,6 @@ const NavigationLink = styled(GatsbyLink)`
     border-color: #f75b4b !important;
     background-color: #edeaea;
   `}
-
   :hover {
     text-decoration: none;
     color: black;
@@ -97,6 +96,11 @@ const StyledDivider = styled(Divider)`
   margin: 1em 16px !important;
 `
 
+const Centered = styled.div`
+  text-align: center;
+  margin-bottom: 0.5rem;
+`
+
 class TreeViewItem extends React.Component {
   constructor(props) {
     super(props)
@@ -119,13 +123,20 @@ class TreeViewItem extends React.Component {
   }
   render() {
     if (this.props.item.separator) {
-      return <StyledDivider />
+      return (
+        <Centered>
+          <StyledDivider />
+          <b>{this.props.item.title}</b>
+        </Centered>
+      )
     }
     return (
       <React.Fragment>
         <Location>
           {({ navigate, location }) => {
-            let active = location.pathname.startsWith(this.props.item.path)
+            let active =
+              location.pathname === this.props.item.path ||
+              location.pathname.includes(this.props.item.path + "/")
             if (this.props.item.path === "/") {
               active = location.pathname === this.props.item.path
             }

@@ -3,7 +3,7 @@ import styled from "styled-components"
 import PagesContext from "../contexes/PagesContext"
 import { nthIndex } from "../util/strings"
 import { Link } from "gatsby"
-
+import { withTranslation } from "react-i18next"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faArrowRight as icon } from "@fortawesome/free-solid-svg-icons"
 import withSimpleErrorBoundary from "../util/withSimpleErrorBoundary"
@@ -78,10 +78,10 @@ class EndOfSubSection extends React.Component {
           }
           return (
             <div>
-              Pääsit aliluvun loppuun!{" "}
+              {this.props.t("endReached")}{" "}
               {nextPart && (
                 <Fragment>
-                  Jatka tästä seuraavaan osaan:{" "}
+                  {this.props.t("continueToNext")}{" "}
                   <ButtonWrapper>
                     <StyledLink to={nextPart.path}>
                       <StyledIcon icon={icon} />
@@ -90,11 +90,7 @@ class EndOfSubSection extends React.Component {
                   </ButtonWrapper>
                 </Fragment>
               )}
-              <p>
-                Muistathan tarkistaa pistetilanteesi materiaalin oikeassa
-                alareunassa olevasta pallosta! Pistilanne ilmestyy materiaaliin
-                myöhemmin.
-              </p>
+              <p>{this.props.t("rememberToCheckPoints")}</p>
             </div>
           )
         }}
@@ -103,4 +99,6 @@ class EndOfSubSection extends React.Component {
   }
 }
 
-export default withSimpleErrorBoundary(EndOfSubSection)
+export default withTranslation("common")(
+  withSimpleErrorBoundary(EndOfSubSection),
+)

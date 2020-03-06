@@ -1,7 +1,12 @@
+const red = require("@material-ui/core/colors/red").default
+const blue = require("@material-ui/core/colors/red").default
+
+const CourseSettings = require('./course-settings')
+
 module.exports = {
   siteMetadata: {
-    title: "Tietoliikenteen perusteet 1",
-    siteUrl: `https://tietoliikenteen-perusteet-1-20.mooc.fi`,
+    title: CourseSettings.name,
+    siteUrl: CourseSettings.siteUrl,
   },
   plugins: [
     "gatsby-plugin-react-helmet",
@@ -10,9 +15,11 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/data`,
-        name: "markdown-pages"
+        name: "markdown-pages",
+
       }
     },
+
     `gatsby-plugin-sharp`,
     `gatsby-plugin-catch-links`,
     {
@@ -101,7 +108,7 @@ module.exports = {
               }
             }
           },
-          `gatsby-remark-component`
+          `@rstacruz/gatsby-remark-component`
         ]
       }
     },
@@ -143,6 +150,10 @@ module.exports = {
     },
     {
       resolve: "gatsby-transformer-moocfi-exercises"
+    },
+    `gatsby-plugin-top-layout`,
+    {
+      resolve: 'gatsby-plugin-material-ui',
     },
     `gatsby-plugin-meta-redirect` // make sure to put last in the array
   ]

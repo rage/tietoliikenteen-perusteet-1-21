@@ -2,6 +2,7 @@ import React from "react"
 import styled from "styled-components"
 import { graphql, StaticQuery } from "gatsby"
 import { Button } from "@material-ui/core"
+import CourseSettings from "../../course-settings"
 
 import Logo from "./Logo"
 import TreeView from "./TreeView"
@@ -93,32 +94,9 @@ const MenuExpanderWrapper = styled.div`
   }
 `
 
-var content2 = [
-  {
-    title: "Tietoa kurssista",
-    path: "/",
-  },
-  {
-    title: "Osaamistavoitteet",
-    path: "/osaamistavoitteet",
-  },
-  {
-    title: "Arvostelu ja kokeet",
-    path: "/arvostelu-ja-kokeet",
-  },
-  { title: "Tukiväylät", path: "/tukivaylat" },
-  {
-    title: "Opettajille ja opinto-ohjaajille",
-    path: "/opettajille",
-  },
-  {
-    title: "Usein kysytyt kysymykset",
-    path: "/usein-kysytyt-kysymykset",
-  },
-  { separator: true },
-]
+var content2 = CourseSettings.sidebarEntries
 
-var futurePages = []
+var futurePages = CourseSettings.sidebarFuturePages
 
 const MobileWrapper = styled.div`
   @media only screen and (max-width: ${SMALL_MEDIUM_BREAKPOINT}) {
@@ -148,8 +126,23 @@ class Sidebar extends React.Component {
     if (process.env.NODE_ENV === "production") {
       edges = edges.filter(o => !o.hidden)
     }
+    edges = edges.filter(o => !o.information_page)
+    edges.sort((a, b) =>
+      a.title.localeCompare(b.title, undefined, {
+        numeric: true,
+        sensitivity: "base",
+      }),
+    )
     let content = content2.concat(edges)
     content = content.concat(futurePages)
+    if (CourseSettings.splitCourses) {
+      let middlepoint = content.findIndex(o => o.title === "Osa 7")
+      content.splice(middlepoint + 1, 0, {
+        separator: true,
+        title: "Ohjelmoinnin jatkokurssi",
+      })
+    }
+
     return (
       <MobileWrapperOrFragment mobileMenuOpen={this.props.mobileMenuOpen}>
         <MenuExpanderWrapper>
@@ -172,7 +165,7 @@ class Sidebar extends React.Component {
           </Button>
         </MenuExpanderWrapper>
         <SidebarContainer mobileMenuOpen={this.props.mobileMenuOpen}>
-          <Brand>Tietoliikenteen perusteet 1</Brand>
+          <Brand>{CourseSettings.name}</Brand>
           <TreeViewContainer>
             <TreeView data={content} />
           </TreeViewContainer>
@@ -196,6 +189,7 @@ const query = graphql`
           id
           frontmatter {
             title
+            information_page
             path
             hidden
           }

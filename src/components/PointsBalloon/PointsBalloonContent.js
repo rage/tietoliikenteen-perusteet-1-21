@@ -5,9 +5,10 @@ import styled from "styled-components"
 import Loading from "../Loading"
 import { fetchProgress } from "../../services/progress"
 import PagesContext from "../../contexes/PagesContext"
-import PartProgress from "./PartProgress"
 import { getCachedUserDetails } from "../../services/moocfi"
 import { SMALL_MEDIUM_BREAKPOINT } from "../../util/constants"
+import CourseProgress from "./CourseProgress"
+import { withTranslation } from "react-i18next"
 
 const StyledModal = styled(Modal)`
   z-index: 500 !important;
@@ -54,16 +55,18 @@ class PointsBalloonContent extends React.Component {
     data: null,
     error: null,
     appliesForStudyRight: null,
+    currentCourseVariant: null,
   }
 
   async componentDidMount() {
     this.setState({ render: true })
     try {
-      let data = await fetchProgress(this.context)
+      let data = await fetchProgress(this.props.t)
       let userDetails = await getCachedUserDetails()
       const appliesForStudyRight =
-        userDetails?.extra_fields?.participates_in_real_tilpe === "t"
-      this.setState({ data, appliesForStudyRight })
+        userDetails?.extra_fields?.applies_for_study_right === "t"
+      const currentCourseVariant = userDetails?.extra_fields?.course_variant
+      this.setState({ data, appliesForStudyRight, currentCourseVariant })
     } catch (e) {
       this.setState({ error: e.toString() })
     }
@@ -86,28 +89,22 @@ class PointsBalloonContent extends React.Component {
       >
         <ModalContent>
           <ModalControls>
-            <Title>Edistyminen (beta)</Title>
-            <Button onClick={this.handleClose}>Sulje</Button>
+            <Title>{this.props.t("progress")}</Title>
+            <Button onClick={this.handleClose}>{this.props.t("close")}</Button>
           </ModalControls>
           <Loading loading={!this.state.data && !this.state.error}>
             <Fragment>
               {this.state.error ? (
                 <div>
-                  Edistymisen hakeminen kaatui seuraavaan virheeseen:{" "}
-                  {this.state.error}
+                  {this.props.t("error")} {this.state.error}
                 </div>
               ) : (
                 <div>
-                  {this.state.data &&
-                    Object.entries(this.state.data).map(([name, data]) => {
-                      return (
-                        <PartProgress
-                          appliesForStudyRight={this.state.appliesForStudyRight}
-                          name={name}
-                          data={data}
-                        />
-                      )
-                    })}
+                  <CourseProgress
+                    data={this.state.data}
+                    appliesForStudyRight={this.state.appliesForStudyRight}
+                    currentCourseVariant={this.state.currentCourseVariant}
+                  />
                 </div>
               )}
             </Fragment>
@@ -118,4 +115,6 @@ class PointsBalloonContent extends React.Component {
   }
 }
 
-export default withSimpleErrorBoundary(PointsBalloonContent)
+export default withTranslation("points-balloon")(
+  withSimpleErrorBoundary(PointsBalloonContent),
+)

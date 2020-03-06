@@ -10,8 +10,8 @@ import getNamedPartials from "../partials"
 
 import "./remark.css"
 import { LoginStateContextProvider } from "../contexes/LoginStateContext"
-import Banner from "../components/Banner"
 import Container from "../components/Container"
+import Banner from "../components/Banner"
 
 const ContentWrapper = styled.article``
 

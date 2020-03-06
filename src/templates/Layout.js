@@ -1,16 +1,14 @@
 import React, { Fragment } from "react"
+import "../i18n"
 import Helmet from "react-helmet"
 import Sidebar from "../components/Sidebar"
 import ContentArea from "../components/ContentArea"
 import TopBar from "../components/TopBar"
 import { StaticQuery, graphql } from "gatsby"
 import * as store from "store"
-import withMaterialUiRoot from "./withMaterialUiRoot"
 import Pheromones from "../util/pheromones"
 import styled from "styled-components"
-
 import courseMetaData from "../../course-metadata.json"
-
 import "./reboot.css"
 import "./theme.css"
 import "./remark.css"
@@ -21,7 +19,7 @@ import "typeface-roboto-mono"
 import "@fortawesome/fontawesome-svg-core/styles.css"
 
 import { config as fontAwesomeConfig } from "@fortawesome/fontawesome-svg-core"
-import { canDoResearch } from "../services/moocfi"
+import { canDoResearch, accessToken } from "../services/moocfi"
 import Footer from "../components/Footer"
 import PointsBalloon from "../components/PointsBalloon"
 import {
@@ -30,6 +28,7 @@ import {
   MEDIUM_LARGE_BREAKPOINT,
   SMALL_MEDIUM_BREAKPOINT,
 } from "../util/constants"
+import withSimpleErrorBoundary from "../util/withSimpleErrorBoundary"
 
 fontAwesomeConfig.autoAddCss = false
 
@@ -108,6 +107,7 @@ class Layout extends React.Component {
 
     return (
       <Fragment>
+        {" "}
         <StaticQuery
           query={layoutQuery}
           render={data => {
@@ -121,11 +121,12 @@ class Layout extends React.Component {
                     {
                       name: "description",
                       content:
-                        "Helsingin yliopiston kaikille avoin ja ilmainen tietoliikenteen perusteet opettava verkkokurssi. Kurssilla opitaan miten internet toimii ja miten tietokoneet, puhelimet ja palvelimet keskustelevat verkon yli.",
+                        "Helsingin yliopiston kaikille avoin ja ilmainen ohjelmoinnin perusteet opettava verkkokurssi. Kurssilla perehdytään nykyaikaisen ohjelmoinnin perusideoihin sekä ohjelmoinnissa käytettävien työvälineiden lisäksi algoritmien laatimiseen. Kurssille osallistuminen ei vaadi ennakkotietoja ohjelmoinnista.",
                     },
                     {
                       name: "keywords",
-                      content: "tietoliikenne, kurssi",
+                      content:
+                        "ohjelmointi, java, programming, CS1, MOOC, 2019, ohjelmointikurssi, avoin, ilmainen, helsingin yliopisto",
                     },
                   ]}
                 />
@@ -154,4 +155,4 @@ class Layout extends React.Component {
   }
 }
 
-export default withMaterialUiRoot(Layout)
+export default withSimpleErrorBoundary(Layout)

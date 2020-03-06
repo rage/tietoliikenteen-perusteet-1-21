@@ -13,56 +13,64 @@ export async function fetchManyQuizDetails(quizIds) {
   return res.data
 }
 
-export async function fetchquizProgress() {
+export async function fetchQuizProgress() {
   let res = []
   const partToTag = [
     {
       part: "osa01",
-      tag: "johdatus-tietoliikenteeseen-19-1",
+      tag: "ohjelmoinnin-mooc-2019-1",
     },
     {
       part: "osa02",
-      tag: "johdatus-tietoliikenteeseen-19-2",
+      tag: "ohjelmoinnin-mooc-2019-2",
     },
     {
       part: "osa03",
-      tag: "johdatus-tietoliikenteeseen-19-3",
+      tag: "ohjelmoinnin-mooc-2019-3",
     },
     {
       part: "osa04",
-      tag: "johdatus-tietoliikenteeseen-19-4",
+      tag: "ohjelmoinnin-mooc-2019-4",
     },
     {
       part: "osa05",
-      tag: "johdatus-tietoliikenteeseen-19-5",
+      tag: "ohjelmoinnin-mooc-2019-5",
     },
     {
       part: "osa06",
-      tag: "johdatus-tietoliikenteeseen-19-6",
+      tag: "ohjelmoinnin-mooc-2019-6",
     },
     {
       part: "osa07",
-      tag: "johdatus-tietoliikenteeseen-19-7",
+      tag: "ohjelmoinnin-mooc-2019-7",
     },
     {
       part: "osa08",
-      tag: "johdatus-tietoliikenteeseen-19-8",
+      tag: "ohjelmoinnin-mooc-2019-8",
     },
     {
       part: "osa09",
-      tag: "johdatus-tietoliikenteeseen-19-9",
+      tag: "ohjelmoinnin-mooc-2019-9",
     },
     {
-      part: "osa010",
-      tag: "johdatus-tietoliikenteeseen-19-10",
+      part: "osa10",
+      tag: "ohjelmoinnin-mooc-2019-10",
     },
     {
       part: "osa11",
-      tag: "johdatus-tietoliikenteeseen-19-11",
+      tag: "ohjelmoinnin-mooc-2019-11",
     },
     {
       part: "osa12",
-      tag: "johdatus-tietoliikenteeseen-19-12",
+      tag: "ohjelmoinnin-mooc-2019-12",
+    },
+    {
+      part: "osa13",
+      tag: "ohjelmoinnin-mooc-2019-13",
+    },
+    {
+      part: "osa14",
+      tag: "ohjelmoinnin-mooc-2019-14",
     },
   ]
   const quizIdInformation = await fetchQuizIds()
@@ -94,7 +102,7 @@ export async function fetchquizProgress() {
 export async function fetchQuizIds() {
   const res = await axios.post(
     `${BASE_URL}/api/v1/tags/quizids`,
-    { tags: ["johdatus-tietoliikenteeseen-19"] },
+    { tags: ["ohjelmoinnin-mooc-2019"] },
     { headers: { Authorization: `Bearer ${accessToken()}` } },
   )
   return res.data
