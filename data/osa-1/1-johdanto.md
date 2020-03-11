@@ -29,8 +29,7 @@ Itse asiassa tuossa sanastojen osoitteessa on monta eri osaa. Käydään ne nyt 
 
 <div> <quiz id="85a25f0f-9e32-589b-95db-57d96c9f64af"> </quiz> </div>
 
-Tietoliikenteessä joudumme käyttämään hyvin suuria ja hyvin pieniä lukuja ja siksi eri suuruisia asioita kuvaavat [kerrannaisyksiköt]
-(https://fi.wikipedia.org/wiki/Kansainv%C3%A4linen_yksikk%C3%B6j%C3%A4rjestelm%C3%A4#Kerrannaisyksik%C3%B6t) ovat tällä kurssilla erittäin tärkeitä. Kertaa siis ainakin SI-järjestelmän mukaiset yksiköt nano, mikro, milli, kilo, mega, giga ja tera, jotta asioiden suuruusluokkien hahmottaminen onnistuu luontevasti. Huomaa myös, että tietoliikenteessä käytetään näitä standardin mukaisia 10:n potensseja eikä tiedontallennuksessa toisinaan käytettäviä 2:n potensseja. 
+Tietoliikenteessä joudumme käyttämään hyvin suuria ja hyvin pieniä lukuja ja siksi eri suuruisia asioita kuvaavat [kerrannaisyksiköt](https://fi.wikipedia.org/wiki/Kansainv%C3%A4linen_yksikk%C3%B6j%C3%A4rjestelm%C3%A4#Kerrannaisyksik%C3%B6t) ovat tällä kurssilla erittäin tärkeitä. Kertaa siis ainakin SI-järjestelmän mukaiset yksiköt nano, mikro, milli, kilo, mega, giga ja tera, jotta asioiden suuruusluokkien hahmottaminen onnistuu luontevasti. Huomaa myös, että tietoliikenteessä käytetään näitä standardin mukaisia 10:n potensseja eikä tiedontallennuksessa toisinaan käytettäviä 2:n potensseja. 
 
 
 ## Internet
