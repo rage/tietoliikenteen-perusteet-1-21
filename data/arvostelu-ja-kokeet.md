@@ -18,6 +18,8 @@ Nämä kaksi kurssia arvostellaan täysin toisistaan riippumatta ja niillä on e
 
 Kurssin voi tenttiä moodlessa joko maalis-huhtikuun vaihteessa, pääsiäisen jälkeisellä viikolla tai helatorstaiviikolla. Muita tenttivaihtoehtoja ei ole. Suosittelen tenttimään jo heti maalis-huhtikuun vaihteessa, jolloin voit jatkaa huhtikuun alusta seuraavalle Tietoliikenteen perusteet 2 -kurssille.
 
+Kurssi tentitään moodlessa ja siellä on myös itsenäisesti tehtäviä lisätehtäviä kokeeseen valmistautumista varten. Tarkemmat arvosteluperusteet on myös moodlessa.
+
 Pidä huoli, että ilmoittaudut avoimeen yliopistoon tenttiä edeltävällä viikolla, jotta käyttöoikeutesi tulee voimaan ajoissa. Et siis tarvitse erillistä tentti-ilmoittautumista, vaan normaali kurssi-ilmoittautuminen riittää.
 
 Ilmoittautumisohje:
