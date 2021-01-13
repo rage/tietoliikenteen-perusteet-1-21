@@ -126,17 +126,6 @@ const Footer = ({ t }) => {
                 </Button>
               )}
             </ButtonContainer>
-            <ContentContainer>
-              {t("makers")}{" "}
-              <OutboundLink
-                href="https://www.helsinki.fi/en/researchgroups/data-driven-education"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                {t("rage")}
-              </OutboundLink>
-              .
-            </ContentContainer>
 
             <ContentContainer>
               <Link to="/credits">{t("credits")}</Link>.
