@@ -28,28 +28,28 @@ Lähdetään liikkeelle siitä, että käyttäjä kirjoittaa kotonaan www-selaim
 
 
 <!--  URL-osoite -->
-<quiz id="9878b63e-27f3-5f84-9b28-d2bc907806a1"></quiz>
+<quiz id="8e989bc3-0ccb-53b9-83ba-9ecf6e53cee3"></quiz>
 
 
 Kuten muistamme, niin palvelimen nimi täytyy muuttaa IP-osoitteeksi, jotta pyyntö voidaan laittaa eteenpäin verkossa
 
 
 <!--  verkkonimi IP-osoitteeksi -->
-<quiz id="c057e8f1-40fb-5995-bf0c-c60a2789bbd0"></quiz>
+<quiz id="aacc9872-ccae-54db-b367-d5890423cfb8"></quiz>
 
 
 Nyt tiedetään jo palvelimen IP-osoite, joten sovelluskerroksella ei enää tehdä kovin paljoa.
 
 
 <!--  HTTP ja kuljetuskerros -->
-<quiz id="d635d2b0-fa59-56d5-bfad-18309877359a"></quiz>
+<quiz id="b1fb05b8-b1ab-5cb6-bb96-c61901deb978"></quiz>
 
 
 Kuljetuskerroksen omissa otsaketiedoissa täytyy olla sovelluskerroksen palvelun/prosessin tunniste. Ajatellaan tätä siis kirjekuoreksi, jossa kuljetuskerroksen otsake on kirjekuoren päällä oleva osoite ja sovelluskerroksen viesti on kuoren sisällä oleva materiaali. (Sovelluskerros on jo voinut tehdä omasta viestistään erillisen kuoren ja antanut sen kuljetuskerrokselle. Uudemmissa verkkosovelluksissa tässä HTTP-protokollalta tulleessa viestissä voi olla jo useita sisäkkäisiä kuoria, mutta ne eivät näy kuljetuskerrokselle.)
 
 
 <!--  prosessin tunnistaminen -->
-<quiz id="61396bd5-0b9d-558f-9c61-b6cadefeba45"></quiz>
+<quiz id="ca3cc74b-9dc1-518e-8505-c16a6b3b4001"></quiz>
 
 
 Nyt meillä on siis kuljetuskerroksen viestissä kuljetuskerroksen otsake ja sen data, joka sisältää sovelluskerroksen otsakkeen ja datan.
@@ -58,14 +58,14 @@ Seuraavaksi kuljetuskerros antaa verkkokerrokselle tämän viestin (kirjekuoren)
 
 
 <!--  vastaanottaja verkkokerroksen otsakkeessa  -->
-<quiz id="a812ccd4-1614-5fe1-be2d-477264465c7d"></quiz>
+<quiz id="4f875661-5417-55bd-8840-e61662fb4a24"></quiz>
 
 
 Nyt puolestaan verkkokerros laittaa kuljetuskerrokselta saamansa viestin omaa kirjekuoreen ja sen päälle tämän verkkokerroksen käyttämän osoitteen ja antaa tämän kuoren edelleen linkkikerrokselle.
 
 
 <!--  vastaanottaja linkkikerroksen otsakkeessa -->
-<quiz id="a8c426ec-4936-57fe-8356-a7125cf98829"></quiz>
+<quiz id="fc662016-f8ac-5737-b8e7-8f593415619f"></quiz>
 
 
 Ja linkkikerros lisää vielä yhden uuden kirjekuoren saamansa verkkokerroksen paketin ympärille. Tähän kuoreen kirjoitetaan päälle linkkikerroksen vastaanottajan osoite.
@@ -78,7 +78,7 @@ Tämä tapahtuu reitityksen avulla. Jokainen kone tietää oman oletusyhdyskäyt
 
 
 <!--  Oletusyhdyskäytävä -->
-<quiz id="81642789-01f7-55ce-8999-67d065da26d3"></quiz>
+<quiz id="14be55a1-5963-5d90-b05e-d83695fb46bb"></quiz>
 
 
 Verkkokerros antaakin todellisuudessa linkkikerrokselle kirjekuoren, jonka päällä on IP-osoite, mutta haluaa, että linkkikerros toimittaa sen ensin ihan eri IP-osoitteella varustetulle reitittimelle. Tätä IP-osoitetta ei kirjoiteta verkkokerroksen kirjekuoren vastaanottajaksi, vaan vastaanottaja on edelleen tuo www-palvelimen IP-osoite. Siksi verkkokerroksen pitää tähän välityspyyntöön liittää nimenomaan yhdyskäytävänä toimivan reitittimen linkkikerroksen MAC-osoite.
@@ -87,7 +87,7 @@ Jos viesti olisi ollut menossa saman aliverkon laitteelle, esim. verkkokirjoitti
  
 
 <!--  MAC-osoitteen selvittäminen -->
-<quiz id="4d2aba78-3203-5f3e-aaa4-2a0169b0f8ef"></quiz>
+<quiz id="7e6d7cfb-d2c0-58a4-8340-090d35a22c2c"></quiz>
 
 
 Näiden vaiheiden jälkeen viesti on vihdoin saatu siirrettyä yhden linkin verran eteenpäin kohti vastaanottajaa. Ensimmäisen linkin jälkeen viesti on siis päätynyt kotiverkon yhdyskäytävänä toimivalle reitittimelle.
@@ -109,7 +109,7 @@ Palataan vielä lopuksi reitittimien toimintaan tarkemmin. Oheisessa kuvassa Rei
 
 
 <!--  Reititin 1 -->
-<quiz id="75450fc4-9e11-5787-a5e8-62065e681be7"></quiz>
+<quiz id="18c33f01-06a6-5b60-9d6f-c3d399ab47eb"></quiz>
 
 
 ## Yhteenvetona
@@ -121,4 +121,4 @@ Seuraavilla kursseilla tutustutaan tarkemmin eri protokollien toimintaan, niiden
 Anna vielä lopuksi palautetta tästä kurssista. 
 
 </quiz><!-- Palautetta -->
-<quiz id="6829ce8f-4ccd-5389-9bac-822663f43ac8"></quiz>
+<quiz id="d2d53f55-aaad-5e7c-b5ed-58f6daac4147"></quiz>

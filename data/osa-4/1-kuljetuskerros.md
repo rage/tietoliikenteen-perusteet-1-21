@@ -13,7 +13,7 @@ hidden: false
 </text-box>
 
 <!-- Osoitteet ja kerrokset -->
-<quiz id="b82fe701-eea6-5fef-b412-7fcd84be9602"></quiz>
+<quiz id="096f0a47-e840-5331-842f-fe2605f12fac"></quiz>
 
 
 
@@ -24,7 +24,7 @@ Kuljetuskerros tarjoaa kuljetuspalvelun sovelluskerrokselle siten, että sovellu
 Tietoliikenteen [porteilla](https://fi.wikipedia.org/wiki/Portti_(tietoliikenne)) on porttinumerot, joiden avulla ne erotetaan toisistaan. Osa porttinumeroista on yhdessä sovittu tiettyjen sovellusten käyttöön ja osa on vapaasti käytettävissä. Porttinumeron avulla kuljetuskerros osaa tunnistaa sovelluskerroksen viestin vastaanottajan. Se on tavallaan paikallinen postiluukku, johon saapuvat viestit laitetaan. Lähettäjän täytyy siis tietää vastaanottavan koneen sovelluksen käyttämä porttinumero. Tämä on mahdotonta, jos meillä ei olisi etukäteen tietoa siitä mihin asiakkaan ensimmäinen viesti pitää toimittaa. Siksi yleisimmille sovelluksille on sovittu tietyt porttinumerot, joita ne käyttävät. Tällöin asiakas voi lähettää viestin 'arvaamalla', että palvelimella on käytössä nimenomaan tämä yhteisesti sovittu porttinumero.
 
 <!-- Porttinumeroita -->
-<quiz id="ebff84cf-00a4-5501-8b37-a38cda59a1c2"></quiz>
+<quiz id="1a00dcd6-dc87-5353-a5b7-6e6144125ef2"></quiz>
 
 ##  TCP
 
@@ -76,5 +76,5 @@ Alkuperäiset kuljetuskerroksen protokollat eivät tarjoa salausta tiedonsiirron
 
 
 <!-- kuljetuskerroksen tehtävistä essee -->
-<quiz id="adea4984-abb4-5df7-9c05-9f547649c237"></quiz>
+<quiz id="7b875bca-1503-5400-8c23-9a08c7a2756c"></quiz>
 

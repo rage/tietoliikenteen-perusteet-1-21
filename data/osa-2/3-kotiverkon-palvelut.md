@@ -32,7 +32,7 @@ Nykyään kaikissa internet-verkon osissa on käytössä nimipalvelu (Domain Nam
 Jos nimelle ei löydy IP-osoitetta, niin sen kanssa ei voi kommunikoida. Vastaavasti kaikilla IP-osoitteilla ei ole pakko olla nimeä. Tämä ei kuitenkaan estä kommunikointia kyseisen IP-osoitteen kanssa.
 
 
-<div><quiz id="8baa3a29-30e9-53b5-afb7-33f95b930923"></quiz></div>
+<div><quiz id="1c462b89-effd-5464-8f51-e8b65a555243"></quiz></div>
 
 
 Mooc.fi on toteutustapansa vuoksi hiukan hankalampi nimipalvelun osalta. Kyselyllä "nslookup mooc.fi" vastaukseksi tulee useita IP-osoitteita. Tämä johtuu siitä, että mooc.fi on toteutettu pilvipalveluna ja kyseisellä pilvipalvelulla on käytössään useita IP-osoitteita, joista se voi tämän palvelun tarjota. Näin se tasaa kuormaan palvelun eri palvelimien välille. Se jakaa nimipalvelun kautta useita osoitteita, jolloin eri asiakkaat ottavat yhteyttä eri osiin pilveä ja näin kaikki saavat palvelua sujuvasti. Jos kaikki yrittäisivät yhteyttä yhteen ja samaan palvelimeen, niin se voisi tukkeutua, jolloin osa asiakkaista ei ehkä saisi palvelua lainkaan ja useimmilla sivu toimisi todella hitaasti.
@@ -53,4 +53,4 @@ Näillä osoitteilla ei siis saa liikennöidä julkisessa internetissä ja siksi
 Käydään IP-osoitteet ja osoitteenmuunnokset sekä niiden käyttö reitityksen apuna tarkemmin osiossa 4, kun tutustutaan verkkokerroksen toiminnallisuuteen. Jos jo nyt haluat lukea tarkemmin IP-osoitteista, niin Wikipedian [niitä käsittelevä sivu](https://fi.wikipedia.org/wiki/IP-osoite) on hyvä suomenkielinen kuvaus aiheesta.
 
 
-<div><quiz id="f1b953a9-e298-5d0c-85be-fb85ab40d478"></quiz></div>
+<div><quiz id="99c9598e-eb39-5715-8885-4f90f94fdf6e"></quiz></div>

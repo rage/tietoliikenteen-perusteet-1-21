@@ -61,4 +61,4 @@ UDP puolestaan on yksinkertaisempi. Se vain ottaa viestin kuljetettavaksi, mutta
 
 Kumpikaan kuljetuskerroksen protokollista ei lupaa mitään viestin välityksen ajankohtaan liittyen. Mitään aikatakeita ei sovelluskerrokselle ole tarjolla. Ne eivät myöskään salaa viestejä. Salausta varten on erikseen SSL (secure socket layer) -kirjasto, joka salaa viestit ensin ja käyttää sitten TCP:tä viestien kuljettamiseen. Tätä sovelluskerroksen ohjelmille salatun kuljetuspalvelun tarjoavaa kirjastoa kutsutaan nimellä SSL, vaikka se voi tarjota salauksen muillakin kuin alkuperäisellä SSL-menetelmällä. Näin on usein toimittu järjestelmien kehittyessä, että palvelunnimi tulee alkuperäisestä palvelusta, vaikka palvelun toteutus onkin kehittynyt huomattavan paljon. Näin vanhoja ohjelmia ei tarvitse muokata, kunhan kirjastorajapinta pysyy ennallaan.
 
-<quiz id="0cfe0445-74a0-5467-b2fb-d5d5d37d55f1"></quiz>
+<quiz id="2d876e8d-8b7a-5352-97a3-2a8576e3d98a"></quiz>

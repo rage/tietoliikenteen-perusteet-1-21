@@ -33,7 +33,7 @@ Tämä tarina tapahtuu aina lähettäjällä ja vastaanottajalla, kun sanoma lä
 ![viesti kulkee sovelluskerrokselta muiden kerrosten läpi fyysiselle kerrokselle ja sieltä vastaanottajan fyysiselle kerrokselle ja käänteisessä järjestyksessä kerrosten läpi sovelluskerrokselle](../img/kerrokset.svg)
 
 
-<div><quiz id="bfce7d91-7214-55e1-b392-0728bbbd7ee2"></quiz></div>
+<div><quiz id="94efa957-0a3a-5505-a922-8837dc705491"></quiz></div>
 
 ### Sanomanvälitys tietoliikenneverkossa, pakettikytkentä, reititys
 
@@ -63,11 +63,11 @@ Toisaalta tällainen pakettien siirtely vaiheittain antaa mahdollisuuden myös p
 Toisaalta internetin perusmalli, jossa vastaanottaja ei voi päättää mitä viestejä sille saapuu, sallii myös erilaisia hyökkäyksiä internetissä. Tähän perustuvat esim. palvelun esto -hyökkäykset ja erilaiset matojen ja virusten leviämiset. Tällä kurssilla emme keskity näihin uhkakuviin ja niiden torjuntaan. Erilaiset tietoturvaa käsittelevät kurssit käyvät kattavammin läpi näitä uhkia ja niiltä suojautumista.
 
 
-<div><quiz id="f384871c-3004-5919-8454-3ff8fc1c7db7"></quiz></div>
+<div><quiz id="82933736-f7ba-5d78-b69b-94d146a104d7"></quiz></div>
 
 ## Yhteenveto
 
 Tämä osio kävi läpi tietoliikenteeseen liittyviä keskeisiä käsitteitä, verkon rakennetta ja internetin periaatteita.
 
 
-<div><quiz id="20c56701-9f71-5994-a167-0fd064bb51e2"></quiz></div>
+<div><quiz id="a3e76658-cddf-5313-ac51-a71b8dd53abf"></quiz></div>

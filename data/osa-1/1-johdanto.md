@@ -27,7 +27,7 @@ Itse asiassa tuossa sanastojen osoitteessa on monta eri osaa. Käydään ne nyt 
 [Sanastokeskus TSK](http://www.tsk.fi/tsk/):n [Tietotekniikan termitalkoot](http://www.tsk.fi/tsk/termitalkoot/) -sivustolta on mahdollista etsiä näitä käsitteitä ja niiden kuvauksia ilman, että täytyy tietää missä sanastossa se on esitelty. Jos eri asioiden nimet ja käsitteiden selitykset kiinnostavat, niin tätä sivustoa kannattaa käyttää. Kurssin aikana se toivottavasti auttaa uusien käsitteiden opiskelua, jos käsite jää tässä materiaalissa kuitenkin oudoksi. Jotta sanaston käyttö tulisi hiukan tutummaksi, niin käy katsomassa ainakin [tietoverkko-käsitteen käsitekaaviota](http://www.tsk.fi/tsk/termitalkoot/haku-266.html?page=resurssi&tiedosto=tietoverkko.svg). Kurssin kuluessa tutustumme lähes kaikkiin näistä termeistä.
 
 
-<div> <quiz id="85a25f0f-9e32-589b-95db-57d96c9f64af"> </quiz> </div>
+<div> <quiz id="154c4dc2-7128-5fcb-b230-db69dc469d1e"> </quiz> </div>
 
 Tietoliikenteessä joudumme käyttämään hyvin suuria ja hyvin pieniä lukuja ja siksi eri suuruisia asioita kuvaavat [kerrannaisyksiköt](https://fi.wikipedia.org/wiki/Kansainv%C3%A4linen_yksikk%C3%B6j%C3%A4rjestelm%C3%A4#Kerrannaisyksik%C3%B6t) ovat tällä kurssilla erittäin tärkeitä. Kertaa siis ainakin SI-järjestelmän mukaiset yksiköt nano, mikro, milli, kilo, mega, giga ja tera, jotta asioiden suuruusluokkien hahmottaminen onnistuu luontevasti. Huomaa myös, että tietoliikenteessä käytetään näitä standardin mukaisia 10:n potensseja eikä tiedontallennuksessa toisinaan käytettäviä 2:n potensseja. 
 
@@ -45,7 +45,7 @@ Näitä internetiin liitettyjä tietoverkkoja hallinnoivat palveluntarjoajat (In
 FICIX julkaisee tilastotietoa sen verkon kautta kulkeneesta liikenteestä. Tilastosta on tarjolla myös [graafinen kuva](https://stats-ficix.basen.com/#/page?name=StatsWelcome&source=wiki)
 
 
-<div> <quiz id="1ae62ac0-ba0d-5e92-a631-39c3a4ca091f"> </quiz> </div>
+<div> <quiz id="f1c929ee-a948-5f36-826b-34efea251791"> </quiz> </div>
 
 
 Internetin keskeisin ominaisuus onkin sen kyky siirtää viestejä tietoverkosta toiseen. Tämän tekevät verkkoja yhdistävät [reitittimet](https://fi.wikipedia.org/wiki/Reititin) (engl. router), jotka vastaanottavat viestin yhdestä verkosta ja välittävät sen edelleen toiseen verkkoon. Kahden eri verkon välissä on aina reititin, joka huolehtii viestien siirtämisestä verkkojen välillä. Usein kummassakin verkossa on oma reitittimensä, joka poimii omasta verkosta ulospäin menevät viestit välitettäväksi toiseen verkkoon.
@@ -65,7 +65,7 @@ Verkkolaitteita ovat puolestaan laitteet, jotka ovat verkon sisäpuolella. Niide
 Kotiverkossa saattaa olla ADSL-modeemi, joka yhdistää sen internetpalvelua tarjoavan teleoperaattorin verkkoon. Aiemmin ADSL-modeemi oli vain ADSL-modeemi. Nykyään kyseessä yleensä on monitoimilaite, joka samalla toimii reitittimenä ja saattaa sisältää muitakin internet-verkon toiminnallisuuksia, kuten langattoman verkon (WLAN, WiFi) tukiasema.
 
 
-<div> <quiz id="2c1183a9-29c7-5e5f-be39-e6b9c5655455"> </quiz> </div>
+<div> <quiz id="9e203df1-b0eb-53ec-b8b6-817a24e77c88"> </quiz> </div>
 
 
 ## Palvelin ja palvelu
@@ -87,7 +87,7 @@ Usein palvelua käyttävistä sovelluksista ja oikeammin niistä laitteista, joi
 Seuraavassa aliluvussa tarkastellaankin miten viestinvaihto viestin lähettäjän ja vastaanottajan välillä oikein tapahtuu.
 
 
-<div> <quiz id="93b4614f-ae16-567c-a9ed-246440a516e7"> </quiz> </div>
+<div> <quiz id="64843bda-2b25-5d7a-b5a7-d6659cbf4aea"> </quiz> </div>
 
 <div>
 <key-terminology

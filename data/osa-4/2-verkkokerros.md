@@ -73,5 +73,5 @@ Reitittimen reititystaulu voisi näyttää vaikka seuraavanlaiselta:
 
 Tämän taulun perusteella viesti, jonka vastaanottajan IP-numero on 11000000 10101000 00010101 00100010 ohjataan linkkiin 1, koska osoitteiden alkuosat ovat identtiset. Sitä ei ohjata linkkiin 4, koska sillä pidempi yhteinen alkuosa linkkiin yksi menevien osoitteiden kanssa. Tähtien tilalla voi olla joko 0 tai 1, joten niiden kohdalla osoitteet voivat erota. Vastaavasti osoite, joka alkaa 01... ohjataan linkkiin 0, johon ohjataan kaikki viestit, joiden vastaanottajat eivät täsmää muiden osoitteiden kanssa.
 
-<quiz id="7e676d8c-d684-5add-a189-d92929f0df85"></quiz>
+<quiz id="20f7d104-0181-5185-8430-d7ea3ce02779"></quiz>
 

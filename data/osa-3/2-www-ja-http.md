@@ -68,7 +68,7 @@ HTTP protokolla on tilaton (stateless). Tämä tarkoittaa sitä, että selaimen 
 
 HTTP käyttää TCP:tä viestien välittämiseen. TCP on yhteydellinen, joten asiakas (eli selain) ja palvelin voivat erikseen sopia yhteyden säilyttämisestä tulevia pyyntöjä varten tai palvelin voi sulkea yhteyden heti vastausviestin lähetettyään, jolloin asiakas joutuu avaamaan uuden yhteyden seuraavalle pyynnölle. Koska www-sivun muodostaminen yleensä edellyttää useita sivun elementtien pyyntöjä, niin usein asiakas ja palvelin sopivat yhteyden säilyttämisestä. Toisaalta yhteyden säilyttäminen tilanteessa, jossa lisäpyyntöjä ei tulekaan, kuormittaa palvelimen rajallisia yhteyksiä.
 
-<quiz id="bcc95e46-2baa-51e9-9f4d-ddcc822d2bd9"></quiz>
+<quiz id="ea557584-ecf4-5649-96c5-0ba3284f34df"></quiz>
 
 
 ## HTML - kuvauskieli
@@ -96,7 +96,7 @@ Toki palvelimet käyttävät muitakin menetelmiä käyttäjien seurantaan ja ana
 
 Jos haluat selvittää, mitä eri evästeet tarkoittavat tai mihin käyttötarkoitukseen ne todennäköisesti liittyvät, on englanninkieliselle [Cookiepedia-sivustolle](https://cookiepedia.co.uk/all-about-cookies) koottu evästeisiin liittyvää informaatiota. Siellä voi tehdä hakuja evästeen nimellä.
 
-<quiz id="bcbdedc1-b423-5aa8-8a58-568397a1a012"></quiz>
+<quiz id="3957242c-f568-585c-9215-8896172968c6"></quiz>
 
 
 
@@ -128,4 +128,4 @@ Koska verkkoliikenne ei ole ilmaista, niin näin organisaatiot voivat vähentä�
 Välityspalvelin tarjoaa myös mahdollisuuksia valvoa verkkosivujen käyttöä. Jos kaikki tietyn organisaation liikenne ohjataan aina välityspalvelimen kautta, niin välityspalvelin ei välttämättä teekään kaikkia pyyntöjä eteenpäin vaan palauttaa virheruudun kyseistä sivua pyytäneelle asiakkaalle. Vastaavasti välityspalvelin voi seurata eri asiakkaiden liikennöintiä ja näin vaikuttaa käyttäjien yksityisyyden suojan heikkenemiseen. Onneksi yleensä voimme toki luottaa oman organisaation tai palveluntarjoajan toimintaan ja siihen, että sen välityspalvelin toimii lakien mukaan, mutta joskus terve epäilys on kuitenkin paikallaan.
 
 
-<quiz id="e0d198f9-c57e-573b-8883-69e764a55aff"></quiz>
+<quiz id="d5ffb854-5181-5fbc-bf27-9069430e4e64"></quiz>
