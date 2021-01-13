@@ -1,11 +1,11 @@
 ---
 path: "/"
+title: "Tietoa kurssista"
 hidden: false
 information_page: true
 banner: true
+sidebar_priority: 5000
 ---
-
-## Tietoa kurssista
 
 Tietoliikenteen perusteet 1 on osa Helsingin yliopiston tietojenkäsittelytieteen kandiohjelman opiskelijoiden Tietoliikenteen perusteet opintojaksoa.  Tämän kurssin sisältö on valikoitu tietoliikenteen käyttäjän tarpeista lähtien.
 
@@ -23,7 +23,7 @@ a) tutkinto-opiskelijoille tarkoitetulle kurssille [TKT20004 Tietoliikenteen per
 
 tai
 
-a) Avoimen yliopiston opiskelijoille, erityisesti DEFA-opintoja tekeville, tarkoitetulle kurssille [AYTKT200041 Avoin yo: Tietoliikenteen perusteet 1, MOOC, kevät 2020](https://courses.helsinki.fi/fi/aytkt200041/130350119), joka alkaa 9.3. 
+a) Avoimen yliopiston opiskelijoille, erityisesti DEFA-opintoja tekeville, tarkoitetulle kurssille [AYTKT200041 Avoin yo: Tietoliikenteen perusteet 1, MOOC, kevät 2020](https://courses.helsinki.fi/fi/aytkt200041/130350119), joka alkaa 9.3.
 
 Huomaa, että opintopisteellisiin suorituksiin liittyy myös muita pakollisia osioita kuin vain tämä verkkomateriaali.
 
@@ -35,7 +35,7 @@ Jos haluat suoritusmerkinnän kursista, niin sitten sinun täytyy ilmoittautua k
 
 Teillä on mahdollisuus saada kurssista [Tietoliikenteen perusteet 1](https://courses.helsinki.fi/fi/aytkt200041/130350119) 2 op:n suoritusmerkintä noudattamalla kurssin ohjeita. Tähän kurssiin liittyy koe, joka tehdään yliopiston moodle-alustalla.
 
-Ilmoittautumisohjeet ja ajankohdat kohdassa [arvostelu ja kokeet](./arvostelu-ja-kokeet). 
+Ilmoittautumisohjeet ja ajankohdat kohdassa [arvostelu ja kokeet](./arvostelu-ja-kokeet).
 
 
 
