@@ -7,7 +7,7 @@ information_page: true
 
 ## Kiitos kaikille
 
-Tämän Kurssin ensimmäisen version tekoon keväällä 2020 ovat osallistuneet vastuuhenkilön Tiina Niklander lisäksi kurssin opettaja Terho Uotila. Erityisesti hänelle kuuluu kiitos siitä, että teksti on helpommin ymmärrettävää ja että tässä versiossa on tekstin lisäksi suhteellisen paljon kuvia.
+Tämän kurssin ensimmäisen version tekoon keväällä 2019 ovat osallistuneet vastuuhenkilön Tiina Niklander lisäksi kurssin muut opettajat Terho Uotila ja Mikko Rinta-Homi.  Terholle oli mukana myös vuoden 2020 version muokkauksissa. Hänelle erityiskiitos siitä, että teksti on helpommin ymmärrettävää ja että tässä versiossa on tekstin lisäksi suhteellisen paljon kuvia. Myös kevään 2020 kurssin assistenttina toiminut Harri Kähkönen auttoi materiaalin parantamisessa.
 
 
 ## Materiaalin lisenssi
