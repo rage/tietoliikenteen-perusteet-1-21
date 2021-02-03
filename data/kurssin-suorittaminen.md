@@ -16,7 +16,9 @@ Molemmat kurssit käyttävät tätä materiaalia, mutta niillä on erilaiset suo
 
 ### Avoin yliopisto: AYTKT200041 Tietoliikenteen perusteet 1, 2op
 
-Avoimen yliopiston opiskelijoille järjestetään kolme tenttimismahdollisuutta, joista viimeisin on tarkoitettu lähinnä uusintakuulusteluksi. Nämä tentit järjestetään moodlessa.
+Avoimen yliopiston opiskelija suorittaa kurssin moodle-tentillä. Ennen tenttiä opiskelijan pitää käydä läpi tämä verkkomateriaali ja tehdä kaikki materiaalissa olevat tehtävä. 
+
+Opiskelija siis osallistuu vain yhteen tenttiin, mutta kurssilla järjestetään kolme tenttimismahdollisuutta, joista viimeisin on tarkoitettu lähinnä uusintakuulusteluksi. Nämä tentit järjestetään moodlessa.
 
 Kaksi ensimmäistä tenttiä ovat 1) Ma 29.3.2021 klo 10 - Ti 30.3.2021 klo 16 ja 2) Ke 28.4.2021 klo 10 - To 29.4.2021 klo 16. Uusintakuulustelu (kolmas ja viimeinen tentti) on suunniteltu pidettäväksi Ma 24.5.2021 klo 10 - Ti 25.5.2021 klo 16. Tämän kokeen kanssa ongelmani on se, että yliopiston nykyisen suunnitelman mukaan juuri tuolloin on opiskelijarekisterin siirto järjestelnästä toiseen, joten ilmoittautumiset ja ehkä myös moodlen käyttö ei luultavasti onnistu. Mikäli aikataulu pitää paikkansa, niin tämä tentti siirretään kesäkuun alkupuolelle 10.6-11.6. Uusi tenttiaika kerrotaan kun siirto varmistuu.
 
@@ -38,7 +40,7 @@ HUOM!
 
 ### Helsingin yliopiston tutkinto-opiskelijat: TKT20004 Tietoliikenteen perusteet, 5 op
 
-Kurssin osallistujille tämä verkkokurssi on laajemman Tietoliikenteen perusteet -kurssin osasuoritus. Tämän Tietoliikenteen perusteet 1 -verkkokurssin koko sisältö katetaan ma 23.3. minikokeessa.
+Kurssin osallistujille tämä verkkokurssi on laajemman Tietoliikenteen perusteet -kurssin osasuoritus. Tämän Tietoliikenteen perusteet 1 -verkkokurssin koko sisältö katetaan kurssin ensimmäisessä minikokeessa.
 
 Opiskelijoiden tulee ilmoittautua kurssille OODIssa kurssisivun [TKT20004 Tietoliikenteen perusteet](https://studies.helsinki.fi/opintotarjonta/cur/hy-opt-cur-2021-6ee318ca-6ac2-4f0a-bb47-22a4295a8a93/Tietoliikenteen_perusteet) ohjeiden mukaisesti.
 
