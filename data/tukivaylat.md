@@ -23,5 +23,5 @@ Valtaosa kurssille osallistujista tekee tänä keväänä sekä Tietoliikenteen 
 
 ## Moodle-foorumi
 
-Kurssiin liittyvällä moodle sivustolla on myös keskustelupalsta kurssiin liittyen, mutta vuoden 2019 kokemuksen perusteella sitä ei juurikaan käytetä, kun tukea ja vastauksia on nopeammin saatavilla telegramissa. Jokaisella kurssilla on oma moodle, ja siksi osallistujia tämän kurssin moodlessa on huomattavasti telegramia vähemmän.
+Moodle on käytettävissä vain tutkinto-opiskelijoiden omalla laajemma kurssilla. Heillä on mahdollisuus keskustella kurssista myös moodlessa, mutta se ei ole aiempina vuosina ollut yhtä suosittu kuin tuo telegram.
 
