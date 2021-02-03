@@ -20,7 +20,7 @@ Avoimen yliopiston opiskelija suorittaa kurssin moodle-tentillä. Ennen tenttiä
 
 Opiskelija siis osallistuu vain yhteen tenttiin, mutta kurssilla järjestetään kolme tenttimismahdollisuutta, joista viimeisin on tarkoitettu lähinnä uusintakuulusteluksi. Nämä tentit järjestetään moodlessa.
 
-Kaksi ensimmäistä tenttiä ovat 1) Ma 29.3.2021 klo 10 - Ti 30.3.2021 klo 16 ja 2) Ke 28.4.2021 klo 10 - To 29.4.2021 klo 16. Uusintakuulustelu (kolmas ja viimeinen tentti) on suunniteltu pidettäväksi Ma 24.5.2021 klo 10 - Ti 25.5.2021 klo 16. Tämän kokeen kanssa ongelmani on se, että yliopiston nykyisen suunnitelman mukaan juuri tuolloin on opiskelijarekisterin siirto järjestelnästä toiseen, joten ilmoittautumiset ja ehkä myös moodlen käyttö ei luultavasti onnistu. Mikäli aikataulu pitää paikkansa, niin tämä tentti siirretään kesäkuun alkupuolelle 10.6-11.6. Uusi tenttiaika kerrotaan kun siirto varmistuu.
+Kaksi ensimmäistä tenttiä ovat 1) Ma 29.3.2021 klo 10 - Ti 30.3.2021 klo 16 ja 2) Ke 28.4.2021 klo 10 - To 29.4.2021 klo 16. Uusintakuulustelu (kolmas ja viimeinen tentti) on suunniteltu pidettäväksi Ma 24.5.2021 klo 10 - Ti 25.5.2021 klo 16. Tämän kokeen kanssa ongelmani on se, että yliopiston nykyisen suunnitelman mukaan juuri tuolloin on opiskelijarekisterin siirto järjestelnästä toiseen, joten ilmoittautumiset ja ehkä myös moodlen käyttö ei luultavasti onnistu. Mikäli aikataulu pitää paikkansa, niin tämä tentti siirretään kesäkuun alkupuolelle 10.6-11.6. Uusintakuulustelun tarkka ajankohta kerrotaan kun varmistuu onko siirto tarpeen.
 
 Toimintaohje:
 
