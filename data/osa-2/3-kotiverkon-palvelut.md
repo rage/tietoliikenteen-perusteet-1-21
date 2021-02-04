@@ -50,6 +50,8 @@ Osoitteiden muunnosta (Network address translation, NAT) käytetään silloin, k
 
 Näillä osoitteilla ei siis saa liikennöidä julkisessa internetissä ja siksi oman kotiverkon ja palveluntarjoajan verkon yhdistävässä kohdassa täytyy olla laite, joka tekee osoitteen muunnoksen yksityisen verkon osoitteesta julkisen verkon osoitteeksi ja päinvastoin. Osoitteenmuunnos edellyttää, että NAT-laite pitää kirjaa mistä oman verkon osoitteesta lähetettiin viestejä mihin julkisen verkon osoitteeseen, jotta se osaa vastausviestit ohjata oikealle yksityisen verkon laitteelle. Tarkempaa tietoa osoitteenmuunnosten tekniikasta on esimerkiksi Wikipedian [asiaa käsittelevällä sivulla](https://fi.wikipedia.org/wiki/Osoitteenmuunnos).
 
+Tyypillisesti NAT-laite ei ole erillinen laite kotiverkossa vaan kotiverkon muuhun internetiin yhdistävä reititin osaa myös NAT-protokollan. Reititinhän on samanaikaisesti kiinni kahdessa eri verkossa, joten sillä on kaksi eri IP-osoitetta, yksi kummassakin verkossa. Sisäverkon puolella NAT-reititin käyttää sisäverkon osoitetta samasta yksityisesti osoiteavaruudesta kuin kotiverkon muutkin laitteet. Julkisen verkon puolella reitittimellä on käytössään palveluntarjoajan sille antama usein julkinen, palveluntarjoajan käyössä olevan osoiteavaruuden mukainen, IP-osoite.
+
 Käydään IP-osoitteet ja osoitteenmuunnokset sekä niiden käyttö reitityksen apuna tarkemmin osiossa 4, kun tutustutaan verkkokerroksen toiminnallisuuteen. Jos jo nyt haluat lukea tarkemmin IP-osoitteista, niin Wikipedian [niitä käsittelevä sivu](https://fi.wikipedia.org/wiki/IP-osoite) on hyvä suomenkielinen kuvaus aiheesta.
 
 
