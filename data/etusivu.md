@@ -17,29 +17,18 @@ Kurssin sisältöjä syventää jatko-osa Tietoliikenteen perusteet 2.
 
 Tämä kevään 2021 kurssi on tarkoitettu kaikille aiheesta kiinnostuneille. 
 
-Helsingin yliopistosssa kurssin suorittamisesta voi saada opintopisteitä osallistumalla joko
-
-a) tutkinto-opiskelijoille tarkoitetulle kurssille [TKT20004 Tietoliikenteen perusteet](https://studies.helsinki.fi/opintotarjonta/cur/hy-opt-cur-2021-6ee318ca-6ac2-4f0a-bb47-22a4295a8a93/Tietoliikenteen_perusteet), joka alkaa ma 15.3.2021
-
-tai
-
-a) Avoimen yliopiston opiskelijoille, erityisesti DEFA-opintoja tekeville, tarkoitetulle kurssille [AYTKT200041 Avoin yo: Tietoliikenteen perusteet 1, kevät 2021](https://studies.helsinki.fi/opintotarjonta/cur/hy-CUR-141378374/Avoin_yo_Tietoliikenteen_perusteet_1_kev%C3%A4t_2021), joka alkaa myös ma 15.3. heti kun tämä verkkomateriaali on julkistettu.
-
-Huomaa, että opintopisteellisiin suorituksiin liittyy myös muita pakollisia osioita kuin vain tämä verkkomateriaali.
-
-### Avoimen yliopiston opiskelijat
-
-Tätä verkkokurssia voi seurata ja tehdä tehtäviä ilman ilmoittautumista avoimeen yliopistoon.
-
-Jos haluat suoritusmerkinnän kursista, niin sinun käyttyy kurssimateriaalin läpikäytyäsi ilmoittautua Helsingin yliopiston avoimeen yliopistoon tämän kurssin opiskelijaksi. Tällöin voit saada 2 op:n suoritusmerkinnän kurssista, kunhan saat hyväksyttävän suorituksen eriksen pidettävästi moodle-kokeesta.
-
-Tarkemmat ilmoittautumisohjeet ja ajankohdat kohdassa [arvostelu ja kokeet](./arvostelu-ja-kokeet).
+Helsingin yliopiston tutkinto-opiskelijat ja avoimen yliopiston opiskelijat voivat saada kurssista myös opintopisteitä. Tästä o tarkemmat ohjeet kohdassa Kurssin suorittaminen. HUomaa, että hyväksytty suoritus edellyttää tenttiä ja niillä on etukäteen annettu aikataulu.
 
 
 
-### HY:n omat tutkinto-opiskelijat
 
-Tämä on osa kurssia [Tietoliikenteen perusteet](https://courses.helsinki.fi/fi/tkt20004/131058728). Tämä ei siis ole itsenäinen opintokokonaisuus vaan osa laajempaa kurssia. Tämän osion suorituksesta ei anneta erillistä suoritusmerkintää. Osion sisällön hallinta testataan kurssin ensimmäisessä minikokeessa. Minikokeen ajankohtaja suoritustapa löytyy kurssin moodlesta.
+### Kurssin rakenne ja aikataulutus
 
-Helsingin yliopiston opiskelijoiden pitää ilmoittautua kurssille OODIssa viimeistän kurssin alkaessa.
+Kurssissa on useampi osio ja niihin liittyviä verkkotehtäviä. Tarkoitus on, että osion tehtävät tehdään ennen seuraavaan osioon siirtymistä.
+
+Koronatilanteen vuoksi tutkinto-opiskelijoiden luennot ovat ZOOMIssa, joten myös kaikkia kurssia verkkokurssina tekevät voivat niihin osallistua. Muistakaa kuitenkin, että ZOOMissa on noin kolmen sadan hengen osallistumisrajoitus ja että tutkinto-opiskelijoilla on paljon lisätehtäviä puhtaaseen verkkomateriaaliin verrattuna.
+
+Tarkempaa tietoa ajasta ja linkista löytyy tutkinto-opiskelijoiden kurssin sivulta [TKT20004 Tietliiknteen perusteet] <https://studies.helsinki.fi/opintotarjonta/cur/hy-opt-cur-2021-6ee318ca-6ac2-4f0a-bb47-22a4295a8a93/Tietoliikenteen_perusteet>
+
+
 
