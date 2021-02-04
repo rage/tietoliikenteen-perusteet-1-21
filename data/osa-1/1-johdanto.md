@@ -80,7 +80,7 @@ Helposti puhumme sekä www-palvelusta että www-palvelimesta. Epätäsmällisess
    <li>Palvelin (engl. server) puolestaan on tietokone, ohjelmisto tai näiden yhdistelmä, joka hoitaa tiettyjä tehtäviä muiden samaan verkkoon kytkettyjen tietokoneiden pyyntöjen ohjaamana tai niiden puolesta.
 </ul>
 
-Eli kun puhumme palvelusta, tarkoitamme jotain isompaa kokonaisuutta, jota tarjotaan muille käytettäväksi. Palvelin on taas osa tietoverkkoa, jonka avulla tuo palvelu voi olla muiden käytettävissä.
+Eli kun puhumme palvelusta, tarkoitamme jotain isompaa kokonaisuutta, jota tarjotaan muille käytettäväksi. Palvelin on  tietoverkossa oleva laite, jonka avulla palvelu on muiden käytettävissä.
 
 Usein palvelua käyttävistä sovelluksista ja oikeammin niistä laitteista, joilla niitä suoritetaan, käytetään termiä asiakas (engl. client). Sovelluksesta voidaan tarvittaessa käyttää termiä asiakasohjelma. Tietoliikenteessä asiakas ei siis koskaan ole ihminen, vaan ihmisestä käytetään termiä 'käyttäjä', koska hän käyttää kyseistä sovellusta tai laitetta.
 
