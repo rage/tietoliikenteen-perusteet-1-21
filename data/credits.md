@@ -9,6 +9,8 @@ information_page: true
 
 Tämän kurssin ensimmäisen version tekoon keväällä 2019 ovat osallistuneet vastuuhenkilön Tiina Niklander lisäksi kurssin muut opettajat Terho Uotila ja Mikko Rinta-Homi.  Terholle oli mukana myös vuoden 2020 version muokkauksissa. Hänelle erityiskiitos siitä, että teksti on helpommin ymmärrettävää ja että materiaalissa on suhteellisen paljon kuvia. Myös kevään 2020 kurssin assistenttina toiminut Harri Kähkönen auttoi materiaalin parantamisessa.
 
+Kiitos myös kevään 2019 ja 2020 opiskelijoille, jotka ovat antaneet palautetta ja esittäneet korjauksia tekstiin ja tehtäviin. Kiitos  githubin käyttäjätunnukselle nigoshh, joka on tehneet useita korjauksia tekstiin githupin pull-toiminnallisuuden avulla. Lisäksi kiitos laajalle joukolle aktiivisesti telegramissa keskusteluun osallistuneille, joidet nimet jäävät usein tunnusten taakse piiloon.
+
 
 ## Materiaalin lisenssi
 
