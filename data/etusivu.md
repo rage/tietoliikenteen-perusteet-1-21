@@ -28,7 +28,7 @@ Kurssissa on useampi osio ja niihin liittyviä verkkotehtäviä. Tarkoitus on, e
 
 Koronatilanteen vuoksi tutkinto-opiskelijoiden luennot ovat ZOOMIssa, joten myös kaikkia kurssia verkkokurssina tekevät voivat niihin osallistua. Muistakaa kuitenkin, että ZOOMissa on noin kolmen sadan hengen osallistumisrajoitus ja että tutkinto-opiskelijoilla on paljon lisätehtäviä puhtaaseen verkkomateriaaliin verrattuna.
 
-Tarkempaa tietoa ajasta ja linkista löytyy tutkinto-opiskelijoiden kurssin sivulta [TKT20004 Tietliiknteen perusteet] <https://studies.helsinki.fi/opintotarjonta/cur/hy-opt-cur-2021-6ee318ca-6ac2-4f0a-bb47-22a4295a8a93/Tietoliikenteen_perusteet>
+Tarkempaa tietoa ajasta ja linkista löytyy tutkinto-opiskelijoiden kurssin sivulta [TKT20004 Tietliiknteen perusteet] (https://studies.helsinki.fi/opintotarjonta/cur/hy-opt-cur-2021-6ee318ca-6ac2-4f0a-bb47-22a4295a8a93/Tietoliikenteen_perusteet)
 
 
 
