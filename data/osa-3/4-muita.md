@@ -17,7 +17,7 @@ Roskapostin lähettäjät hyödyntävät vahvasti tätä sähköpostien lähett�
 
 ## Pikaviestit
 
-Pikaviestintä on selvästi sähköpostia uudempi tapa viestiä internetin käyttäjien kesken. Ensimmäisiä näistä oli [IRC](https://fi.wikipedia.org/wiki/IRC). Nykyisin paljon käytettyjä ovat esimerkiksi Whatsapp, Telegram, Yammer ja Slack. [Wikipedian pikaviestimiä käsittelevällä sivulla](https://fi.wikipedia.org/wiki/Pikaviestint%C3%A4) on lueteltu paljon muitakin pikaviestintäjärjestelmiä. Usein kukin järjestelmä on omalla tavallaan suljettu eli viestejä voi väittää vain kyseisen sovelluksen käyttäjien kesken.
+Pikaviestintä on selvästi sähköpostia uudempi tapa viestiä internetin käyttäjien kesken. Ensimmäisiä näistä oli [IRC](https://fi.wikipedia.org/wiki/IRC). Nykyisin paljon käytettyjä ovat esimerkiksi Whatsapp, Telegram, Yammer ja Slack. [Wikipedian pikaviestimiä käsittelevällä sivulla](https://fi.wikipedia.org/wiki/Pikaviestint%C3%A4) on lueteltu paljon muitakin pikaviestintäjärjestelmiä. Usein kukin järjestelmä on omalla tavallaan suljettu eli viestejä voi välittää vain kyseisen sovelluksen käyttäjien kesken.
 
 Monet pikaviestintäjärjestelmät käyttävät sisäisesti viestien välittämiseen XMPP-protokollaa (Extensible Messaging and Presence Protocol), mutta muitakin, usein järjestelmän omia, protokollia on käytössä. XMPP on avoin protokolla, joten sen standardit on julkaistu. Niissä on varauduttu myös siihen, että XMPP:tä käyttävään järjestelmään voi erillisen yhdyskäytävän (gateway) kautta olla käyttäjiä myös muita protokollia käyttävissä järjestelmissä. Yhdyskäytävän tehtävänä on silloin tehdä tarvittavat protokollamuunnokset XMPP:n ja käyttäjän asiakasohjelman käyttämän protokollan välillä.
 
@@ -36,7 +36,9 @@ Esimerkiksi Helsingin yliopiston opiskelijoille ja henkilökunnalle on käytett�
 
 Ajatuksellisesti VPN-yhteys on siis jonkinlainen suojattu putki tai tunneli, joka johtaa omalta koneelta organisaation VPN-palvelimelle ja johon kukaan matkan varrella oleva ulkopuolinen toimija ei voi nähdä sisälle. Näin se on helppo vielä hahmottaa. Lisätään tähän vähän yksityiskohtia lisää. Putken sisällä liikenne on organisaation oman sisäisen verkon liikennettä, eli esimerkiksi www-selaimen lähettämiä pyyntöjä ja sen saamia vastauksia. Putken ulkopuolella liikenne puolestaan on julkisen internetin liikennettä. Sisäpuolella liikennöidään siis yrityksen sisäverkon IP-osoitteilla ja ulkopuolella julkisen internetin osoitteilla.
 
-Lähettäjän sovellus lähettää viestin normaalisti ja protokollapinon eri kerroksilla siitä muodostetaan sisäverkon paketti. Koska sitä ei IP-osoitteidensa vuoksi voida suoraan lähettää julkiseen verkkoon, tämä paketti sijoitetaan ulkoverkon paketin sisään dataksi. Ulkoverkon paketti voidaan sitten lähettää VPN-palvelimelle. Palvelin avaa saamansa paketin ja ottaa sieltä tuon sisäverkon paketin, jonka se lähettää nyt sisäverkosta lopulliselle kohteelleen. Viestien paketointiin tutustutaan hiukan tarkemmin seuraavassa osiossa, jossa katsotaan muita protokollapinon kerroksia ja niiden toimintoja.
+Lähettäjän sovellus lähettää viestin normaalisti ja protokollapinon eri kerroksilla siitä muodostetaan sisäverkon paketti. Koska sitä ei IP-osoitteidensa vuoksi voida suoraan lähettää julkiseen verkkoon, tämä paketti sijoitetaan ulkoverkon paketin sisään dataksi. Ulkoverkon paketti voidaan sitten lähettää VPN-palvelimelle normaalista julkisen internetin välityksellä. Palvelin avaa saamansa paketin ja ottaa sieltä tuon sisäverkon paketin, jonka se lähettää nyt sisäverkossa lopulliselle kohteelleen. HUomaa, että kohde voi olla sisäverkossa tai sen ulkopuolella. Ulkopuoliselle vastaanottajalle viesti näyttää nyt tulevan esimerkiksi yliopiston sisäverkosta ja sitä kohdellaan sellaisena.
+
+Viestien paketointiin tutustutaan hiukan tarkemmin seuraavassa osiossa, jossa katsotaan muita protokollapinon kerroksia ja niiden toimintoja.
 
 <quiz id="430120a3-a8fb-5f81-a2f2-6b4772167a97"></quiz>
 
