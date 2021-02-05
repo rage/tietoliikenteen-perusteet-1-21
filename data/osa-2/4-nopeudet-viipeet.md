@@ -12,11 +12,13 @@ Tietoliikenteessä puhumme verkon nopeudesta, vaikka tietoliikenneverkko itse ei
 
 Tietoliikenteessä viestin siirtoon menee aikaa. Tämä aika riippuu toisaalta verkon nopeudesta (bitteinä sekunnissa), viestin pituudesta (bitteinä) ja mahdollisista viivästyksistä matkan varrella.
 
-Yhdessä linkissä viestin siirtoaika on helppo arvioida, kun tiedämme linkin liikennöintinopeuden (bitteinä sekunnissa) ja viestin pituuden (biteissä). Tästä on helppo jakolaskulla (viestin pituus / liikennöintinopeus) saada arvio kyseisen viestin siirron kestolle.
+Yhdessä linkissä viestin siirtoaika on helppo arvioida, kun tiedämme linkin liikennöintinopeuden (bitteinä sekunnissa) ja viestin pituuden (biteissä). Tästä on helppo jakolaskulla (viestin pituus / liikennöintinopeus) saada arvio kyseisen viestin siirron kestolle. Wikipedian sivulla [lähetysviive](https://fi.wikipedia.org/wiki/L%C3%A4hetysviive) tämä kaava on ilmaistu tavuina. Huomaa, että kaava on sama, mutta jos yhdistät bitteja ja tavuja samaan kaavaan, niin yksi tavu sisältää 8 bittiä, joten tavujen määrä pitää kertoa kahdeksalla.
 
 Tietoliikenteessä siirtonopeudet ilmoitetaan aina bitteinä sekunnissa (b/s) ja etuliitteet (katso [wikipedian sivu](https://fi.wikipedia.org/wiki/Mittayksik%C3%B6n_etuliite)) ovat aina aitoja kymmenen potensseja, toisin kuin tiedon tallennuksessa, jossa usein käytetään tavuja ja kakkosen potensseja.
 
 Tietoliikenteessä käytämme aina [SI-järjestelmän mukaisia kerrannaisyksiköitä etuliitteinä](https://fi.wikipedia.org/wiki/Kansainv%C3%A4linen_yksikk%C3%B6j%C3%A4rjestelm%C3%A4#Kerrannaisyksik%C3%B6t). Näistä tärkeimpiä ovat nano, mikro, kilo, mega, giga ja tera.
+
+Yksittäisen linkin nopeuden saa selville yleensä selvittämällä mitä liitäntästandardia kyseinen yhteys käyttää. Esimerkiksi kotiverkon reitittimille ja modeemeille on tyypillistä tarjota langallista ethernet-yhteyttä esim. 100 megabittiä sekunnissa (Mb/s). Tai niin sanottua gigabitin ethernetiä, jonka liikennöintinopeus on 1 gigabitti sekunnissa (Gb/s) tai muunnettuna megabiteiksi sekunnissa 1000 Mb/s.  Langattomilla yhteyksillä tyypillisesti kerrotaan vain teoreettinen maksiminopeus, jota ei käytännössä yleensä voi saavuttaa etäisyyden ja erilaisten siirtoa haittaavien häiriöiden vuoksi.
 
 Viestin kulkua hidastavat muut kuljetettavat viestit. Jos kaksi viestiä pitää siirtää samaa yhteyttä pitkin, niin ne eivät voi mennä yhtä aikaa vaan ne täytyy lähettää peräkkäin. Tällöin niiden yhteinen kokonaissiirtoaika on kummankin viestin siirtoaika yhteensä.
 
@@ -29,7 +31,7 @@ Koska viestit kulkevat paketteina, joissa on mukana eri kerrosten otsakkeet, nii
 
 Pakettikytkentäisessä verkossa, kuten internet, viestin kulku lähettäjältä vastaanottajalle tapahtuu linkki kerrallaan. Jokaisella linkillä on oma liikennöintinopeutensa. Hitain näistä määrää, millä nopeudella viesti voi korkeintaan kulkea. Kotiverkkojen kohdalla hitain linkki on tyypillisesti se, joka yhdistää kotiverkon ja palveluntarjoajan verkon. Siksi kotiverkkojen liikennöintinopeus ajatellaan yleensä tämän linkin nopeudeksi. Kotiverkon sisäinen liikenne voi kuitenkin tapahtua nopeammin.
 
-Matkan varrella olevat reitittimet aiheuttavat tuon edellä kuvatun siirtoajan (tai oikeammin lähetysviiveen) lisäksi vielä vähän lisää viivettä. Viestin käsittelyyn menee hiukan aikaa (prosessointiviive). Lisäksi viesti voi joutua odottamaan linkin vapautumista hetkisen ennen kuin se voidaan lähettää (jonotusviive). Viimeinen viive on etenemisviive, joka ottaa huomioon sen, miten kauas viesti on menossa. Nämä viiveet yhdessä muodostavat siirtoviiveen. Koska prosessointiviive, jonotusviive ja etenemisviive ovat huomattavasti lähetysviivettä pienempiä, niin jätämme ne tässä pois ja keskitymme siirtoviiveen laskennassa vain tuohon lähetysviiveeseen.
+Matkan varrella olevat reitittimet aiheuttavat tuon edellä kuvatun siirtoajan (tai oikeammin lähetysviiveen) lisäksi vielä vähän lisää viivettä. Viestin käsittelyyn menee hiukan aikaa (prosessointiviive). Lisäksi viesti voi joutua odottamaan linkin vapautumista hetkisen ennen kuin se voidaan lähettää (jonotusviive). Viimeinen viive on etenemisviive, joka ottaa huomioon sen, miten kauas viesti on menossa. Nämä viiveet yhdessä muodostavat siirtoviiveen. Koska prosessointiviive, jonotusviive ja etenemisviive ovat huomattavasti lähetysviivettä pienempiä, niin jätämme ne tässä pois ja keskitymme tällä kurssilla siirtoviiveen laskennassa vain tuohon lähetysviiveeseen.
 
 Ruuhkaisessa verkossa tosin jonotusviive voi olla merkittävä, mutta jätetään nämä ruuhkatilanteisiin liittyvät laskelmat tältä kurssilta pois. Tästä jonotuksesta aiheutuu suuri osa verkossa tapahtuvista pakettien katoamisista.
 
