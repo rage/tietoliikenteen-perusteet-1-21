@@ -44,13 +44,15 @@ Funet ylläpitää edelleen [FTP-palvelua ftp.funet.fi](ftp://ftp.funet.fi). Se 
 
 FTP-palveluissakin pyritään välttämään verkon kuormittamista käyttämällä erityisiä peilisolmuja (Mirror site), joihin tiedostoja siirretään lähemmäs oletettuja käyttäjiä. Käyttäjän tehtäväksi jää päättää, mikä mahdollisista peilisolmuista olisi itselle sopivin ja ottaa sitten yhteyttä suoraan siihen. Aikoinaan peilisolmun valinta oli erittäin tärkeä, koska se vaikutti merkittävästi tiedoston latausaikaan. Lähellä ja nopean yhteyden takana olevalta peililtä tiedosto saattoi tulla minuuteissa, kun kauempana olevalta peililtä latausaika saattoi olla tunteja.
 
+Moderneissa sisällönjakeluverkoissa päätöksen siitä, miltä 'peilisolmulta' tiedosto asiakkaalle toimitetaan tekee palvelu ei asiakas. Tarakstellaan näitä verkkoja seuraavaksi.
+
 
 
 ## Sisällönjakeluverkko
 
 Sisällönjakeluverkot on kehitetty nykyisen internetin käyttötapoihin sopiviksi. Vaikka FTP ja muut puhtaasti tiedostojen jakeluun kehitetyt järjestelmätkin edelleen toimivat, niin sisällönjakeluverkkojen keskeinen tavoite on taata häiriötön datan kulku palveluntarjoajalta asiakkaalle. Ne pyrkivät voimakkaasti vähentämään verkkoliikennettä ja näin säästämään tietoliikennekustannuksia. Laajimmat maailmanlaajuiset verkot toimivat ainakin osittain internetin ulkopuolella, jotta jakeluverkon ylläpitäjällä on täysi kontrolli verkossa liikkuvaan tietoon ja mahdollisuus kontrolloida datan siirtoaikoja. Tällöin verkosta on useita erillisiä liityntäpisteitä, joista sisältöä jaellaan internetissä oleville asiakkaille.
 
-Wikipediassa on [lyhyt kuvaus sisällönjakeluverkoista](https://fi.wikipedia.org/wiki/Sis%C3%A4ll%C3%B6njakeluverkko). Kuvauksessa on mainittu useita kaupallisia toimijoita, joilla on omia sisällönjakeluverkkoja.
+Wikipediassa on lyhyt kuvaus [sisällönjakeluverkoista](https://fi.wikipedia.org/wiki/Sis%C3%A4ll%C3%B6njakeluverkko). Kuvauksessa on mainittu useita kaupallisia toimijoita, joilla on omia sisällönjakeluverkkoja.
 
 Yleensä käyttäjä käyttää jotain sovellusta, joka sitten sisäisesti käyttääkin sisällön siirtoon jotain tiettyä sisällönjakopalvelua tarjoavaa organisaatiota. Käyttäjällä ei välttämättä ole edes käsitystä siitä, että tieto kulkeekin erillisen sisällönjakelijan kautta. Hyvä esimerkki tästä on Ylen vuonna 2015 laatima [kuvaus Areena-palvelun toiminnasta](https://yle.fi/aihe/artikkeli/2015/01/15/nain-areenan-jakelu-toimii).
 
