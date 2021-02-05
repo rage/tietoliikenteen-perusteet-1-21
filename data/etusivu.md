@@ -26,8 +26,9 @@ Helsingin yliopiston tutkinto-opiskelijat ja avoimen yliopiston opiskelijat voiv
 
 Kurssissa on useampi osio ja niihin liittyviä verkkotehtäviä. Tarkoitus on, että osion tehtävät tehdään ennen seuraavaan osioon siirtymistä.
 
-Koronatilanteen vuoksi tutkinto-opiskelijoiden luennot ovat ZOOMIssa, joten myös kaikkia kurssia verkkokurssina tekevät voivat niihin osallistua. Muistakaa kuitenkin, että ZOOMissa on noin kolmen sadan hengen osallistumisrajoitus ja että tutkinto-opiskelijoilla on paljon lisätehtäviä puhtaaseen verkkomateriaaliin verrattuna. Vain kaksi ensimmäistä luentokertaa liittyy tähän osioon 1.
-Tarkempi tietoa ajasta ja linkistä löytyy tutkinto-opiskelijoiden kurssin sivulta [TKT20004 Tietoliikenteen perusteet](https://studies.helsinki.fi/opintotarjonta/cur/hy-opt-cur-2021-6ee318ca-6ac2-4f0a-bb47-22a4295a8a93/Tietoliikenteen_perusteet)
+Materiaalissa on myös linkkejä muille verkkosivuille. Näitä sivuja ei ole välttämätöntä lukea osaa kurssimateriaali, mutta suosittelen kuitenkin hyödyntämään niitä. Ne laajentavat ja syventävät omaa osaamistasi. Osaa linkkien sisällöistä hyödynnetään verkkotehtävissä. Tällöin linkin sisältöön tutustuminen on tarkoitett osaksi kurssisisältöä.
+
+Tutkinto-opiskelijoille on tämän kurssimateriaalin lisäksi tukiluentoja ja lisätehtäviä. Näiden tarkemmat ohjeet löytyvät joko kurssin julkiselta kotisivulta [TKT20004 Tietoliikenteen perusteet](https://studies.helsinki.fi/opintotarjonta/cur/hy-opt-cur-2021-6ee318ca-6ac2-4f0a-bb47-22a4295a8a93/Tietoliikenteen_perusteet) tai vain kurssin opiskelijoille tarkoitetusta moodlesta.
 
 
 
