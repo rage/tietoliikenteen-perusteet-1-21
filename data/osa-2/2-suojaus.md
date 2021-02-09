@@ -41,6 +41,7 @@ Useimmissa kotiverkoissa on kuitenkin käytössä myös langaton verkko, jonka s
 
 Langalliseen tai langattomaan verkkoon pääsy voidaan rajata myös vain tietyille laitteille. Linkkikerroksella Ethernet-verkossa käytettävä MAC-osoite on yksi mahdollinen tapa rajoittaa verkon käyttöä. Perinteisesti laitteilla on ollut kiinteä MAC-osoite, jolla laite voidaan tunnistaa. Nykyisin laitteiden MAC-osoitteita voidaan ohjelmallisesti vaihtaa, joten tämä ei enää ole kovin turvallinen tapa rajoittaa verkkoon liitettäviä laitteita.
 
+<div><quiz id="13aeee0e-5506-5534-8859-a55eb111b67b"></quiz></div>
 
 ### Luvattoman tulevan liikenteen estäminen - Palomuuri
 
@@ -60,6 +61,6 @@ Salasanojen hallinnasta on vuonna 2014 julkaistu [Viestintäviraston kyberturval
 
 Salasanat eivät ole tämän kurssin keskeistä sisältöä, mutta jokaiselle joka ylläpitää tai hallinnoi omaa tietoliikenneverkkoaan niiden oikea käyttö on tärkeä osa oman verkon turvallisuutta.
 
-<div><quiz id="13aeee0e-5506-5534-8859-a55eb111b67b"></quiz></div>
+
 
 <div><quiz id="f95ec672-9106-5aeb-8c2c-bd651caac02c"></quiz></div>
