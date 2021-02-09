@@ -20,6 +20,8 @@ Olemme käyneet läpi tietoliikenteen erilaisia osa-alueita, joitakin tarkemmin 
 
 Kootaan vielä kaikki asiat yhdeksi isommaksi kokonaisuudeksi. Tässä ei siis pitäisi enää tulla varsinaisesti uutta asiaa, vaan katsotaan kurssilla käsiteltyjen asioiden yhteistoimintaa.
 
+Koska asiat on jo opittu aiemmissa osioissa, niin tämän luvun kertaavia tehtävät voi yrittää vain kerran. Näin ne antavat sinulle aidomman kuvan omasta osaamisesta.
+
 ![Kaavakuva missä viesti kulkee lähettäjältä vastaanottajalle useamman reitittimen kautta](../img/lahettaja-reititin-vastaanottaja.svg)
 
 
