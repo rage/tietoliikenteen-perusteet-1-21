@@ -12,9 +12,6 @@ hidden: false
 
 </text-box>
 
-<!-- Osoitteet ja kerrokset -->
-<quiz id="096f0a47-e840-5331-842f-fe2605f12fac"></quiz>
-
 
 
 ## Kuljetuskerros
