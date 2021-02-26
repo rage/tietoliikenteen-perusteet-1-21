@@ -17,7 +17,7 @@ Kurssin sisältöjä syventää jatko-osa Tietoliikenteen perusteet 2.
 
 Tämä kevään 2021 kurssi on tarkoitettu kaikille aiheesta kiinnostuneille. 
 
-Helsingin yliopiston tutkinto-opiskelijat ja avoimen yliopiston opiskelijat voivat saada kurssista myös opintopisteitä. Tästä o tarkemmat ohjeet kohdassa Kurssin suorittaminen. HUomaa, että hyväksytty suoritus edellyttää tenttiä ja niillä on etukäteen annettu aikataulu.
+Mikäli haluat saada kurssin suorittamisesta arvosanan ja opintopisteitä, on sinun osallistuttava joko tutkintko-opiskeijoiden tai avoimen yliopiston opiskelijoiden kurssille.  Katso tarkemmat ohjeet kohdasta kurssin suorittaminen.  HUomaa, että hyväksytty suoritus edellyttää tenttiä ja niillä on etukäteen annettu aikataulu.
 
 
 
