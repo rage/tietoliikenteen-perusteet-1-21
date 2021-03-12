@@ -35,7 +35,15 @@ HUOM!
 -	Ilmoittautuminen Avoimeen yliopiston täytyy tehdä muutama arkipäivä ennen suunniteltua tenttiajankohtaa.
 -	Vain niiden opiskelijoiden opintosuoritukset voidaan kirjata Helsingin yliopiston opintorekisteriin, jotka ovat tehneet kurssi-ilmoittautumisen Avoimeen yliopistoon ja suorittaneet kurssin loppuun ohjeiden mukaisesti.
 
+Tarkat linkit ilmoittautumiseen ja kurssisivuun:
+Tuo opiskelijarekisterin siirron vuoksi ilmoittautuminen ei ole mahdollista 15.5-30.5. välisenä aikana. Huomaa myös, että kursissivun linkki vaihtuu samassa yhteydessä.
 
+- Ilmoittautuminen välillä 15.3.2021 - 14.5.2021: https://www.avoin.helsinki.fi/palvelut/esittely.aspx?o=136503362
+Kurssisivu: https://studies.helsinki.fi/opintotarjonta/cur/hy-CUR-136503362/Avoin_yo_Tietoliikenteen_perusteet_1_kev%C3%A4t_2021
+
+ 
+- Ilmoittautuminen välillä 31.5.2021 - 10.6.2021: https://www.avoin.helsinki.fi/palvelut/esittely.aspx?o=141378374
+Kurssisivu: https://studies.helsinki.fi/opintotarjonta/cur/hy-CUR-141378374/Avoin_yo_Tietoliikenteen_perusteet_1_kev%C3%A4t_2021
 
 
 ### Helsingin yliopiston tutkinto-opiskelijat: TKT20004 Tietoliikenteen perusteet, 5 op
