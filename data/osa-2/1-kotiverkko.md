@@ -83,6 +83,6 @@ Tämä verkkojen jakautuminen aliverkkoihin on yksi erittäin keskeinen internet
 
 ### Aliverkko yleisesti
 
-Kaikki edellä kuvattu sopii kaikkiin internetiin liitettyihin erilaisten organisaatioiden, kuten yrtykset, yhdistykset, kodit, yms., omiin aliverkkoihin ja niiden liittämiseen internetiin. Joten vaikka edellä on puhuttu nimenomaan kotiverkoista, niin olisimme ihan yhtä hyvin voineet puhua yritysverkoista. Toki isojen yritysten omat verkot ovat rakenteeltaan paljon monimutkaisempia, mutta samoista palikoista nekin muodostuvat. 
+Kaikki edellä kuvattu sopii kaikkiin internetiin liitettyihin erilaisten organisaatioiden, kuten yritykset, yhdistykset, kodit, yms., omiin aliverkkoihin ja niiden liittämiseen internetiin. Joten vaikka edellä on puhuttu nimenomaan kotiverkoista, niin olisimme ihan yhtä hyvin voineet puhua yritysverkoista. Toki isojen yritysten omat verkot ovat rakenteeltaan paljon monimutkaisempia, mutta samoista palikoista nekin muodostuvat. 
 
 <div><quiz id="da8b86ad-d8e6-52c8-b6a7-935e2d4919f8"></quiz></div>
