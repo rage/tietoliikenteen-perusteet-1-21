@@ -13,4 +13,6 @@ Johdannon tavoitteena on antaa sinulle yleiskäsitys siitä, miten internet toim
 
 Yllä oleva sisällysluettelo sisältää tämän osan aihealueet. Kuhunkin kurssin osaan on hyvä varata kymmenkunta tuntia, niin ehtii paneutua asioihin ja tehtäviin kunnolla. Jotkut osiot ovat hiukan kevyempiä ja oma aiempi osaaminen voi nopeuttaa kurssin suorittamista.
 
+Kurssin opiskelijoille on tarjolla myös syventäviä itsenäisesti tehtäviä harjoituksia ja tutkinto-opiskelijoiden luennoista tehdyt videotallenteet. Nämä löytyvät [verkkosivulta](https://www.cs.helsinki.fi/u/niklande/opetus/tilpe/2021/).
+
 <exercises-in-this-section></exercises-in-this-section>
