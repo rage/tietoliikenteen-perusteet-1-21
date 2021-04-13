@@ -6,7 +6,7 @@ const courseSettings = {
   subtitle: "Opi miten internet toimii",
   slug: "tietoliikenteen-perusteet-1-21",
   tmcCourse: "x",
-  quizzesId: "cceb1d86-33ac-44d3-a4be-939821043ccd",
+  quizzesId: "b6dc7e85-1258-4a43-b75e-09982ef35cd0",
   tmcOrganization: "mooc",
   bannerPath: "banner.svg",
   studyRightEnabled: false,
