@@ -70,7 +70,7 @@ UDP jää tällä kurssillä hyvin vähälle huomiolle. Tärkeintä onkin tunnis
 
 ## TLS
 
-Alkuperäiset kuljetuskerroksen protokollat eivät tarjoa salausta tiedonsiirron turvallisuuden parantamiseksi. Sitä varten on kehitetty aluksi SSL ja siitä edelleen TLS (Transport Layer Security), jolla voidaan salata TCP-yhteyksissä kulkevaa dataa. Yksinkertaistetusti voidaan ajatella että TLS on vain salattu TCP-yhteys. Salauksessa haastavinta salausalgoritmien lisäksi on suunnitella ja toteuttaa luotettava avainten hallinta. Avainten hallinta käsitellään yleensä tietoturva-kursseilla ja siksi emme sitä tällä kurssilla käsittele enempää kuin jo aiemmin esillä olleet varmenteet edellyttivät. Jos tietoturva kiinnostaa, niin Cyber security -kurssisarja voisi olla seuraava asken tämän kurssin jatko-osan jälkeen.
+Alkuperäiset kuljetuskerroksen protokollat eivät tarjoa salausta tiedonsiirron turvallisuuden parantamiseksi. Sitä varten on kehitetty aluksi SSL ja siitä edelleen TLS (Transport Layer Security), jolla voidaan salata TCP-yhteyksissä kulkevaa dataa. Yksinkertaistetusti voidaan ajatella että TLS on vain salattu TCP-yhteys. Salauksessa haastavinta salausalgoritmien lisäksi on suunnitella ja toteuttaa luotettava avainten hallinta. Avainten hallinta käsitellään yleensä tietoturva-kursseilla ja siksi emme sitä tällä kurssilla käsittele enempää kuin jo aiemmin esillä olleet varmenteet edellyttivät. Jos tietoturva kiinnostaa, niin Cyber security -kurssisarja voisi olla seuraava askel tämän kurssin jatko-osan jälkeen.
 
 
 
