@@ -12,7 +12,7 @@ Tässä usein kysyttyjä kysymyksiä ja ongelmia. Jos et löydä kysymykseesi va
 
 ### Löysin materiaalista virheen
 
-Avaa joko issue tai muutosehdotus kurssin Github-repossa: https://github.com/rage/tietoliikenteen-perusteet-1-20.
+Avaa joko issue tai muutosehdotus kurssin Github-repossa: https://github.com/rage/tietoliikenteen-perusteet-1-21.
 
 
 ### Työ- ja elinkeinotoimisto haluaa minulta selvityksen kurssista
